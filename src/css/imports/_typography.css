@@ -19,6 +19,14 @@ body {
   background-color: var(--off-white);
  }
 
+h1 {
+  font-family: var(--font-family);
+}
+
+h2 {
+  font-family: var(--font-family);
+}
+
 p {
   margin-bottom: var(--spacing-medium);
   max-width: 32rem;
