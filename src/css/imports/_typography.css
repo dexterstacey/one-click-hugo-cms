@@ -9,11 +9,6 @@ html {
   background-color: var(--black);
 }
 
-@font-face {
-  font-family: "Morganite";
-  src: url(./Morganite-Bold.ttf) format("truetype");
-  }
-
 body {
   font-family: var(--font-family);
   font-size: var(--spacing-medium);
@@ -23,17 +18,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--off-white);
  }
-
-h1 {
-  font-family: 'Morganite', sans-serif;
-  font-size: 2.5rem;
-  }
-
-h2 {
-  font-family: 'Morganite', sans-serif;
-  font-size: 1.5rem;
-  }
-
 
 p {
   margin-bottom: var(--spacing-medium);
