@@ -1,5 +1,5 @@
 ---
-title: WE ARE COHERE
+title: Introducing... Cohere
 date: 2022-03-01T13:12:37.744Z
 description: "Today we launch our new brand, and with it an emboldened sense of
   identity. Cohere brings together a diverse group of people all united in one
