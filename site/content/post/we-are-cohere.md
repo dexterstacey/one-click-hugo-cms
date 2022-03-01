@@ -5,6 +5,7 @@ description: "Today we launch our new brand, and with it an emboldened sense of
   identity. Cohere brings together a diverse group of people all united in one
   belief – that everyone, especially refugees, should have control over their
   future, on their terms. "
+image: https://i.imgur.com/QbEYaJ6.png
 ---
 <!--StartFragment-->
 
