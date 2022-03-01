@@ -1,5 +1,5 @@
 ---
-title: Reframing the way humanitarian aid works
+title: Reframing the way aid works
 date: 2022-03-01T13:39:18.926Z
 description: "At Cohere, our vision isn’t to transfer aid. It’s to transfer power. "
 image: https://i.imgur.com/LKRqw1p.png
