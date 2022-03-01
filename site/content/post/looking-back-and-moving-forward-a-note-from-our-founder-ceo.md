@@ -5,6 +5,7 @@ description: >
   In the years since Xavier Project began, the number of people displaced around
   the world has increased from 42 million people to over 82 million people
   today.
+image: https://i.imgur.com/GhVoiHG.png
 ---
 <!--StartFragment-->
 
