@@ -1,5 +1,5 @@
 ---
-title: Looking back and moving forward - a note from our Founder & CEO
+title: A Letter from our Founder & CEO
 date: 2022-03-01T13:37:14.347Z
 description: >
   In the years since Xavier Project began, the number of people displaced around
