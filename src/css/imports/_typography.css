@@ -31,7 +31,7 @@ h2 {
 p {
   margin-bottom: var(--spacing-medium);
   max-width: 32rem;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 strong {
