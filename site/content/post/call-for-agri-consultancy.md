@@ -1,6 +1,6 @@
 ---
 title: Call for Agri-Consultancy
-date: 2022-03-30T07:36:00.000Z
+date: 2022-03-30T09:24:15.716Z
 description: >
   Cohere is seeking an agricultural consultant under a short-term contract to
   help design a practical farmer training program in Rwamwanja Refugee
