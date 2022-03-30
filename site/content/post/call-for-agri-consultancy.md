@@ -13,7 +13,6 @@ Cohere (formerly Xavier Project) is an international NGO registered in Kenya, Ug
 
 Cohere has established a social enterprise in Rwamwanja centred around agro-processing of key locally-grown crops. Cohere currently owns a 20-acre farm and a maize milling facility on the periphery of the refugee settlement. Since 2018 the farm has been managed to grow maize, beans, citrus, coffee, banana, sugarcane, mixed vegetables and rear a herd of nearly 50 goats. The farm serves as a site for income-generation but importantly as a demonstration farm, testing growing practices and market-linkages for different crops to then share information with refugee and host community farmers via training/workshops.
 
-
 In 2021 Cohere also established the maize mill which can produce up to 10 tonnes of flour per day for retail locally. Grain is purchased at favourable rates directly from local farmers who are also supported via training, extension services and agro-inputs to ensure a reliable supply to best sustain and scale the enterprise. This builds a revenue to support Cohere’s on-going commitments with refugee-led organisations while accelerating the sustainability of farming livelihoods in the area.  
 
 **Consultancy Need**
@@ -32,6 +31,6 @@ It is desirable to have experience working with refugee farmers and in Kamwenge 
 
 To apply for this position, we would like to ask you to complete and submit [this online form](https://docs.google.com/forms/d/1FxvkoEotrA7iNfNdAFv9GX_P_UedCNr2x930fmNxER0/viewform?ts=6242f950&edit_requested=true) asking for you to propose your methodology for developing the farmer-support programme. In addition, please submit your CV to jobs@wearecohere.org and use your name and the job title “Agri-Consultant” in the email subject. Please note that only the CVs of short-listed candidates will be read so include the most relevant information from your CV in the application form.
 
-The deadline for submitting the online form and sending your CV and written work is the 4th April 2022. As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. Kindly note that only short-listed candidates will be contacted. For more information about our work please visit [www.wearecohere.org](www.wearecohere.org).
+The deadline for submitting the online form and sending your CV and written work is the 11th April 2022. As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. Kindly note that only short-listed candidates will be contacted. For more information about our work please visit [www.wearecohere.org](www.wearecohere.org).
 
 Cohere is an equal opportunity employer and therefore does not discriminate on the basis of religion, race, colour, origin, gender, sexual orientation or disability. This is a secure form and your application will only be read by Cohere's selection panel for this position and the Cohere Human Resources department.
