@@ -5,7 +5,7 @@ description: >
   Cohere is seeking an agricultural consultant under a short-term contract to
   help design a practical farmer training program in Rwamwanja Refugee
   Settlement, Kamwenge District.
-image: img/job-pic.jpg
+image: img/final-picture.jpg
 ---
 **About Cohere**
 
