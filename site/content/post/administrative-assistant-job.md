@@ -15,7 +15,7 @@ Cohere’s role in achieving this is to strengthen and share capacity with refug
 
 **Job Description**
 
-Cohere is seeking to recruit an Administrative Assistant to provide administrative support to ensure efficient operation of the office. The role involves high level secretarial, administrative, public relations and liaison duties with frequent contact with staff, the public, government officials, other partners and stakeholders.
+Cohere is seeking to recruit an Administrative Assistant to provide administrative support to ensure efficient operation of the Uganda office. The role involves high level secretarial, administrative, public relations and liaison duties with frequent contact with staff, the public, government officials, other partners and stakeholders.
 
 **Key Responsibilities**
 
@@ -36,15 +36,16 @@ Cohere is seeking to recruit an Administrative Assistant to provide administrati
 * Ability to maintain strict confidentiality.
 * Knowledge of MS Excel, Word and other common programs.
 * Ability to communicate with staff and other contacts in courteous and professional manner
-* Ability to prioritize multiple tasks and  make independent decisions.
+* Ability to prioritise multiple tasks and  make independent decisions.
 
 **Educational Requirements**
 
-A University degree or its equivalent  in office management, business administration, human resource management or related field.
-At least three-year progressive and relevant experience in a reputable organization.
+* A University degree or its equivalent  in office management, business administration, human resource management or related field.
+* At least three-year progressive and relevant experience in a reputable organization.
 
 **What we offer**
 
+* Gross salary: 1,000,000-1,500,000 Ugandan shillings per month.
 * Working in an international team of motivated and visionary individuals.
 * Opportunities for personal and professional growth.
 * 25 days of annual leave.
