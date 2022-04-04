@@ -3,7 +3,7 @@ title: Administrative Assistant job
 date: 2022-03-31T10:20:09.206Z
 description: Cohere is seeking to recruit an Administrative Assistant to provide
   administrative support to ensure efficient operation of the office.
-image: img/website-image.jpg
+image: https://news.wearecohere.org/img/website-image.jpg
 ---
 **About us**
 
