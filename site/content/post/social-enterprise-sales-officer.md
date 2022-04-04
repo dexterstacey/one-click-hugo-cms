@@ -4,7 +4,7 @@ date: 2022-03-30T13:21:39.224Z
 description: Cohere is looking to recruit a Sales Officer to help in marketing
   and sales for Cohere’s social enterprise in Rwamwanja as we aggregate and
   process maize grain.
-image: img/pic.jpg
+image: https://news.wearecohere.org/img/pic.jpg
 ---
 **About Cohere**
 
