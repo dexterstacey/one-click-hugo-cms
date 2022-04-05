@@ -33,8 +33,7 @@ Cohere is looking to recruit a ‘Sales Officer’ to help in marketing and sale
 **Responsibilities**
 
 * Should be conversant with company products, to be able to convince the public about their benefits and the related values
-
-  * Maintain accurate sales records, to communicate planned customer visits, and addressing customer complaints
+* Maintain accurate sales records, to communicate planned customer visits, and addressing customer complaints
 * Benchmarking to enrich product features, benefits, market success while minimizing shortfalls
 * Creating sustainable customer relationships
 * Training sales people to work with in the company’s sales efforts
