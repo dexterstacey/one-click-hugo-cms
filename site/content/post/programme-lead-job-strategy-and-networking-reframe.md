@@ -2,7 +2,7 @@
 title: Programme Lead Job - Strategy and Networking (Reframe)
 date: 2022-04-20T12:52:31.333Z
 description: Cohere is seeking to recruit a Programme Lead to oversee the growth
-  and development of the platform www.reframe.network.
+  and development of Reframe.
 image: img/reframe-copy.jpg
 ---
 **About us**\
