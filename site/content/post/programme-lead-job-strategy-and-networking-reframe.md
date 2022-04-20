@@ -1,5 +1,5 @@
 ---
-title: "Programme Lead Job: Strategy & Networking"
+title: "Programme Lead Job: Reframe"
 date: 2022-04-20T12:52:31.333Z
 description: Cohere is seeking to recruit a Programme Lead to oversee the growth
   and development of Reframe.
