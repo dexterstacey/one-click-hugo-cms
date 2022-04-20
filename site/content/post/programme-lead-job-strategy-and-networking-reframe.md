@@ -14,10 +14,8 @@ Cohere’s role in achieving this is to strengthen and share capacity with refug
 \
 Cohere has been an instrumental founder of the RLO platform www.reframe.network. The platform is designed to profile the work of RLOs (currently almost 100), presenting their work in a way that is consistent and easy to navigate. Reframe also provides a way to share opportunities within a network of RLOs and enable refugee leaders to connect. Currently there are initiatives underway to facilitate the flow of funding to RLOs through Reframe as well as integrated project management.
 
-
-
 **Job Description**\
-Cohere is seeking to recruit a programme lead to take a lead in strategy and networking - more specifically to oversee the growth and development of the platform www.reframe.network.
+Cohere is seeking to recruit a programme lead to take a lead in strategy and networking - more specifically to oversee the growth and development of the platform www.reframe.network based in Nairobi, Kenya.
 
 \
 **Key Responsibilities**
@@ -45,6 +43,9 @@ A University degree or its equivalent in ICT, project management, international 
 * 25 days of annual leave.
 * Participating in extensive national and international networks within the humanitarian aid and development sector.
 * Individual insurance cover.
+* Gross Salary: 120,000 - 150,000 KES per month
+
+
 
 **How to apply**\
 To apply for this position, complete and submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLScKFTBNTzjr1aNqC_2hQw5oA6faNC9zpcWTUZYnvA7FG1SVIg/viewform?vc=0&c=0&w=1&flr=0&pli=1) . In addition, please submit your CV to [jobs@wearecohere.org](mailto:jobs@wearecohere.org) and use your name and the job title “Reframe” in the email subject. Please note that only the CVs of short-listed candidates will be read so include the most relevant information from your CV in the application form.
