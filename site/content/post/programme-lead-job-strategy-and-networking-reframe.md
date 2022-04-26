@@ -3,7 +3,7 @@ title: "Programme Lead Job: Reframe"
 date: 2022-04-20T12:52:31.333Z
 description: Cohere is seeking to recruit a Programme Lead to oversee the growth
   and development of Reframe Network.
-image: img/reframe-copy.jpg
+image: https://news.wearecohere.org/img/reframe-copy.jpg
 ---
 **About us**\
 At Cohere we want to see a world in which everyone has control over their own future. Especially refugees. Our mission is to unleash the potential of refugees to determine their own futures on their own terms. No one chooses to live a life of dependency. That’s why our vision isn’t to transfer aid. It’s to transfer power.\
