@@ -6,26 +6,28 @@ description: >
   help design a practical farmer training program in Rwamwanja Refugee
   Settlement, Kamwenge District.
 image: https://news.wearecohere.org/img/final-picture.jpg
+categories: ["jobs"]
 ---
+
 **About Cohere**
 
-Cohere (formerly Xavier Project) is an international NGO registered in Kenya, Uganda and the UK which specialises in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee hosting areas. Cohere is a facilitator ensuring greater community ownership and self-reliance over humanitarian and development projects. We strengthen the RLOs’ capacity to design multi-year strategic plans to implement and manage pioneering community-led interventions which address core problems in their own communities. 
+Cohere (formerly Xavier Project) is an international NGO registered in Kenya, Uganda and the UK which specialises in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee hosting areas. Cohere is a facilitator ensuring greater community ownership and self-reliance over humanitarian and development projects. We strengthen the RLOs’ capacity to design multi-year strategic plans to implement and manage pioneering community-led interventions which address core problems in their own communities.
 
 Cohere has established a social enterprise in Rwamwanja centred around agro-processing of key locally-grown crops. Cohere currently owns a 20-acre farm and a maize milling facility on the periphery of the refugee settlement. Since 2018 the farm has been managed to grow maize, beans, citrus, coffee, banana, sugarcane, mixed vegetables and rear a herd of nearly 50 goats. The farm serves as a site for income-generation but importantly as a demonstration farm, testing growing practices and market-linkages for different crops to then share information with refugee and host community farmers via training/workshops.
 
-In 2021 Cohere also established the maize mill which can produce up to 10 tonnes of flour per day for retail locally. Grain is purchased at favourable rates directly from local farmers who are also supported via training, extension services and agro-inputs to ensure a reliable supply to best sustain and scale the enterprise. This builds a revenue to support Cohere’s on-going commitments with refugee-led organisations while accelerating the sustainability of farming livelihoods in the area.  
+In 2021 Cohere also established the maize mill which can produce up to 10 tonnes of flour per day for retail locally. Grain is purchased at favourable rates directly from local farmers who are also supported via training, extension services and agro-inputs to ensure a reliable supply to best sustain and scale the enterprise. This builds a revenue to support Cohere’s on-going commitments with refugee-led organisations while accelerating the sustainability of farming livelihoods in the area.
 
 **Consultancy Need**
 
-Cohere has received funding to launch a practical farmer training programme in Rwamwanja reaching up to 500 smallholder farmers per year. We expect the candidate to be willing to travel to Rwamwanja. We have a limited budget of 6,000,000 UGX to hire an external consultant over 1 month to support in the following areas: 
+Cohere has received funding to launch a practical farmer training programme in Rwamwanja reaching up to 500 smallholder farmers per year. We expect the candidate to be willing to travel to Rwamwanja. We have a limited budget of 6,000,000 UGX to hire an external consultant over 1 month to support in the following areas:
 
 1. Designing course content with a focus on maize, legumes and vegetables
 2. Working with project staff to develop our training implementation plan and monitoring tools
 3. Supporting value-chain analysis for different local cash-crops
 4. Supporting marketing strategies for the farm and maize flour
-5. Supporting the design of the farm and related crop plans to generate the most positive outcomes environmentally and economically 
+5. Supporting the design of the farm and related crop plans to generate the most positive outcomes environmentally and economically
 
-It is desirable to have experience working with refugee farmers and in Kamwenge District 
+It is desirable to have experience working with refugee farmers and in Kamwenge District
 
 **How to Apply**
 

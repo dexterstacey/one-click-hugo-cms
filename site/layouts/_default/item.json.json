@@ -3,5 +3,6 @@
   "date": "{{ .Date }}",
   "description": "{{ .Params.description }}",
   "image": "{{ .Params.image}}",
+  "category": "{{ .Params.categories}}",
   "permalink": "{{ .Permalink }}"
 }

@@ -4,7 +4,9 @@ date: 2022-04-20T12:52:31.333Z
 description: Cohere is seeking to recruit a Programme Lead to oversee the growth
   and development of Reframe Network.
 image: https://news.wearecohere.org/img/reframe-copy.jpg
+categories: ["jobs"]
 ---
+
 **About us**\
 At Cohere we want to see a world in which everyone has control over their own future. Especially refugees. Our mission is to unleash the potential of refugees to determine their own futures on their own terms. No one chooses to live a life of dependency. That’s why our vision isn’t to transfer aid. It’s to transfer power.\
 \
@@ -38,14 +40,12 @@ A University degree or its equivalent in ICT, project management, international 
 \
 **What we offer**
 
-* Working in an international team of motivated and visionary individuals.
-* Opportunities for personal and professional growth.
-* 25 days of annual leave.
-* Participating in extensive national and international networks within the humanitarian aid and development sector.
-* Individual insurance cover.
-* Gross Salary: 120,000 - 150,000 KES per month
-
-
+- Working in an international team of motivated and visionary individuals.
+- Opportunities for personal and professional growth.
+- 25 days of annual leave.
+- Participating in extensive national and international networks within the humanitarian aid and development sector.
+- Individual insurance cover.
+- Gross Salary: 120,000 - 150,000 KES per month
 
 **How to apply**\
 To apply for this position, complete and submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLScKFTBNTzjr1aNqC_2hQw5oA6faNC9zpcWTUZYnvA7FG1SVIg/viewform?vc=0&c=0&w=1&flr=0&pli=1) . In addition, please submit your CV to [jobs@wearecohere.org](mailto:jobs@wearecohere.org) and use your name and the job title “Reframe” in the email subject. Please note that only the CVs of short-listed candidates will be read so include the most relevant information from your CV in the application form.

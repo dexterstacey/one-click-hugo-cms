@@ -5,7 +5,9 @@ description: Cohere is looking to recruit a Sales Officer to help in marketing
   and sales for Cohere’s social enterprise in Rwamwanja as we aggregate and
   process maize grain.
 image: https://news.wearecohere.org/img/pic.jpg
+categories: ["jobs"]
 ---
+
 **About Cohere**
 
 Cohere is an international NGO registered in Kenya, Uganda and the UK which specialises in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee hosting areas. Cohere is a facilitator ensuring greater community ownership and self-reliance over humanitarian and development projects. We strengthen the RLOs’ capacity to design multi-year strategic plans to implement and manage pioneering community-led interventions which address core problems in their own communities.\
@@ -32,18 +34,18 @@ Cohere is looking to recruit a ‘Sales Officer’ to help in marketing and sale
 
 **Responsibilities**
 
-* Should be conversant with company products, to be able to convince the public about their benefits and the related values
-* Maintain accurate sales records, to communicate planned customer visits, and addressing customer complaints
-* Benchmarking to enrich product features, benefits, market success while minimizing shortfalls
-* Creating sustainable customer relationships
-* Training sales people to work with in the company’s sales efforts
-* Ability to explain company products to potential customers and encourage them to purchase
-* Collaborate with production and finance departments to ensure the company reaches the target audience, sales volume and consequently revenue
-* Well versed with sales cost-benefit analyses for customers to determine the most suitable purchasing options
-* Able to answer customers' questions and giving feedback to production & finance departments as they relate to quality and pricing issues
-* Collect and communicate feedback from the market with the team\
+- Should be conversant with company products, to be able to convince the public about their benefits and the related values
+- Maintain accurate sales records, to communicate planned customer visits, and addressing customer complaints
+- Benchmarking to enrich product features, benefits, market success while minimizing shortfalls
+- Creating sustainable customer relationships
+- Training sales people to work with in the company’s sales efforts
+- Ability to explain company products to potential customers and encourage them to purchase
+- Collaborate with production and finance departments to ensure the company reaches the target audience, sales volume and consequently revenue
+- Well versed with sales cost-benefit analyses for customers to determine the most suitable purchasing options
+- Able to answer customers' questions and giving feedback to production & finance departments as they relate to quality and pricing issues
+- Collect and communicate feedback from the market with the team\
   Maintain and grow customer databases
-* Prepare monthly and quarterly sales reports
+- Prepare monthly and quarterly sales reports
 
 **How to apply**
 
