@@ -5,7 +5,7 @@ description: Cohere is looking to recruit a Production Officer to help manage
   efficient production of quality maize flour for Cohere’s social enterprise in
   Rwamwanja.
 categories: jobs
-image: img/img_7148-copy-2.jpg
+image: https://news.wearecohere.org/img/img_7148-copy-2.jpg
 ---
 **About Cohere (Formerly Xavier Project)**\
 Cohere is an international NGO registered in Kenya, Uganda and the UK which specialises in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee hosting areas. Cohere is a facilitator ensuring greater community ownership and self-reliance over humanitarian and development projects. We strengthen the RLOs’ capacity to design multi-year strategic plans to implement and manage pioneering community-led interventions which address core problems in their own communities.\
