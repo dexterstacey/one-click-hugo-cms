@@ -4,7 +4,7 @@ date: 2022-05-23T13:12:09.278Z
 description: Flavia is a determined mother and participant in a learning program
   that we run with RLO Solidarity Initiative for Refugees (SIR).
 categories: news
-image: img/flavia-copy.jpg
+image: https://news.wearecohere.org/img/flavia-copy.jpg
 ---
 Flavia Namwanga is a determined mother of four children and an active participant in a learning program that we run together with our refugee-led partner [Solidarity Initiative for Refugees (SIR)](https://sirafrica.org/). Before joining the program, Flavia lost out on many opportunities for skills training because she could not leave her children unattended. Finding a safe environment to leave them was difficult.
 
