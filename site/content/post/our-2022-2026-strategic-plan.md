@@ -4,7 +4,7 @@ date: 2022-06-03T13:25:29.048Z
 description: The 2022-2026 Strategic Plan is not Cohere’s alone. It lays out a
   grand vision shared by the refugee-led organisations we are partnering with.
 categories: news
-image: img/sp.jpg
+image: https://news.wearecohere.org/img/sp.jpg
 ---
 Since 2008, we have been working with refugee communities in East Africa, implementing education and livelihoods programmes with a range of donors and partners. We have partnered with refugee leaders since 2012 and are currently working with 33 refugee-led organisations (RLOs) in Kenya, Uganda and Nigeria. 
 
