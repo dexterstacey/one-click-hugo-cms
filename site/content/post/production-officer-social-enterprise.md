@@ -15,8 +15,6 @@ Cohere has launched an agricultural social enterprise in Rwamwanja Settlement. T
 **Job Description**\
 Cohere is looking to recruit a ‘Production Officer’ to help in managing the efficient production of quality maize flour for Cohere’s social enterprise in Rwamwanja Refugee Settlement, Kamwenge District, Uganda. We are therefore looking for someone with technical training and experience in grain (maize) processing mechanics at all levels of the production line as well as skills in addressing mechanical issues with milling equipment.
 
-
-
 **Essential Requirements**
 
 * Bachelor's degree in mechanical engineering or a related field of technical study 
@@ -28,8 +26,6 @@ Cohere is looking to recruit a ‘Production Officer’ to help in managing the 
 * Very analytical with proven strong problem-solving skills
 * High proficiency in written and spoken English
 
-
-
 **Desired Features**
 
 * Experience in sales and marketing within agribusiness with strong communication skills
@@ -37,8 +33,6 @@ Cohere is looking to recruit a ‘Production Officer’ to help in managing the 
 * Experience working with displaced people like refugees and a native of
 * Rwamwanja Refugee Settlement be given priority
 * Qualified female candidates are strongly encouraged to apply
-
-
 
 **Responsibilities**
 
@@ -54,11 +48,9 @@ Cohere is looking to recruit a ‘Production Officer’ to help in managing the 
 * Collect and communicate feedback from the market and mill staff with the team
 * Prepare monthly and quarterly production reports
 
-
-
 **How to Apply**\
 To apply for this position, we would like to ask you to complete and submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLSeNBXFwf_AoyCFjdtqctsWG5eBe8OpoRkofuSrzBlD3wXJFKA/viewform). In addition, please submit your CV to [jobs@wearecohere.org](mailto:jobs@wearecohere.org) and use your name and the job title “Production Officer” in the email subject. Please note that only the CVs of short-listed candidates will be read so include the most relevant information from your CV in the application form.\
 \
-The deadline for submitting the online form and sending your CV and written work is the 3rd June 2022. As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. Kindly note that only short-listed candidates will be contacted. For more information about our work please visit [www.wearecohere.org](http://www.wearecohere.org/).\
+The deadline for submitting the online form and sending your CV and written work is the 27th June 2022. As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. Kindly note that only short-listed candidates will be contacted. For more information about our work please visit [www.wearecohere.org](http://www.wearecohere.org/).\
 \
 Cohere is an equal opportunity employer and therefore does not discriminate on the basis of religion, race, colour, origin, gender, sexual orientation or disability. This is a secure form and your application will only be read by Cohere's selection panel for this position and the Cohere Human Resources department.
