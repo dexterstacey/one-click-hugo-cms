@@ -19,4 +19,4 @@ Your money can support a refugee like Flavia Namanga based in Kakuma Refugee Cam
 
 ![](img/flavia-copy.jpg)
 
-We hope you will help us fuel futures by giving refugees like Flavia the tools and support to unleash their full potential and become independent. Sign up to our [newsletter](http://eepurl.com/dtNznT) for latest updates.
+We hope you will help us [fuel futures](https://cohere.enthuse.com/donate#!/) by giving refugees like Flavia the tools and support to unleash their full potential and become independent. Sign up to our [newsletter](http://eepurl.com/dtNznT) for latest updates.
