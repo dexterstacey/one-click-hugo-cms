@@ -1,6 +1,6 @@
 ---
 title: Five ways you can support refugees
-date: 2022-07-04T07:25:38.276Z
+date: 2022-07-02T07:25:38.276Z
 description: Recently, we celebrated world refugee day and shared inspiring
   stories from our partners all week on our digital media platforms. We
   celebrated the courage, resilience, and power of all refugees the world over.
