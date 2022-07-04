@@ -1,9 +1,9 @@
 ---
 title: Five ways you can support refugees
-date: 2022-07-02T07:25:38.276Z
-description: Recently, we celebrated world refugee day and shared inspiring
+date: 2022-07-01T07:25:38.276Z
+description: We marked World Refugee Day on 20th June and shared inspiring
   stories from our partners all week on our digital media platforms. We
-  celebrated the courage, resilience, and power of all refugees the world over.
+  celebrated the courage, resilience, and power of all refugees.
 categories: news
 image: img/wbsite.jpg
 ---
@@ -19,4 +19,4 @@ Your money can support a refugee like Flavia Namanga based in Kakuma Refugee Cam
 
 ![](img/flavia-copy.jpg)
 
-We hope you will help us [fuel futures](https://cohere.enthuse.com/donate#!/) by giving refugees like Flavia the tools and support to unleash their full potential and become independent. Sign up to our [newsletter](http://eepurl.com/dtNznT) for latest updates.
+We hope you will help us [fuel futures](https://cohere.enthuse.com/donate#!/) by giving refugees like Flavia tools and support to unleash their full potential and become independent. Sign up to our [newsletter](http://eepurl.com/dtNznT) for latest updates.
