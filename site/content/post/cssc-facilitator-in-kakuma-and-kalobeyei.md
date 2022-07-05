@@ -53,4 +53,4 @@ Cohere is seeking to hire a vibrant individual for the position of a CSSC facili
 
 To apply for this position, please fill in [this](https://forms.gle/UmY4JAFNqoVkE8CZ8) form. Women are encouraged to apply. 
 
-Cohere is an equal opportunity employer and therefore does not discriminate on the basis of religion, race, colour, origin, gender, sexual orientation or disability. Your application will only be read by Cohere's selection panel for this position and the Cohere Human Resources department. **The deadline for submitting an application is 20th July 2022.**
+Cohere is an equal opportunity employer and therefore does not discriminate on the basis of religion, race, colour, origin, gender, sexual orientation or disability. Your application will only be read by Cohere's selection panel for this position and the Cohere Human Resources department. The deadline for submitting an application is 20th July 2022.
