@@ -1,5 +1,5 @@
 ---
-title: CSSC facilitator in Kakuma and Kalobeyei
+title: "CSSC Facilitator in Kakuma: Refugees Only"
 date: 2022-07-05T11:21:35.586Z
 description: We're seeking to hire a vibrant individual for the position of
   Capacity Strengthening and Sharing Course Facilitator in Kakuma and Kalobeyei.
@@ -12,7 +12,7 @@ Cohere is an international NGO registered in Kenya, Uganda and the UK which spec
 
 **Job description**
 
-Cohere is seeking to hire a vibrant individual for the position of a CSSC facilitator who will journey along with our refugee & host community leaders in Kakuma and Kalobeyei to achieve self-reliance through the delivery of Cohere’s Capacity Strengthening and Sharing Course (CSSC). The facilitator will work closely with the Kakuma Location Specialists as well as Cohere’s partner RLOs and CBOs.
+Cohere is seeking to hire a vibrant individual for the position of a CSSC facilitator who will journey along with our refugee & host community leaders in Kakuma and Kalobeyei to achieve self-reliance through the delivery of Cohere’s Capacity Strengthening and Sharing Course (CSSC). The facilitator will work closely with the Kakuma Location Specialists and will be reporting to them, as well as Cohere’s partner RLOs and CBOs. This position is open to refugees only and based in Kakuma, Turkana West. The duration of the initial contract is 5 months (August - December 2022) and is subject to renewal based on performance and availability of funding. The holder of this position will receive a gross salary of Kes 43,000.
 
 **Desired Qualifications**
 
