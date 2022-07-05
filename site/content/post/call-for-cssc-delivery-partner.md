@@ -8,7 +8,7 @@ image: img/cssc-kkm.jpg
 ---
 **About Cohere (Formerly Xavier Project)**
 
-Cohere is an international NGO registered in Kenya, Uganda and the UK which specialises in building holistic partnerships with Refugee-Led (RLOs) and Host Community (CBOs) Organisations in refugee hosting areas. Cohere is a facilitator ensuring greater community ownership and self-reliance over humanitarian and development projects. We strengthen the CBOs/RLOs’ capacity to design multi-year strategic plans to implement and manage pioneering community-led interventions that address core community problems.
+Cohere is an international NGO registered in Kenya, Uganda and the UK which specialises in building holistic partnerships with Refugee-Led (RLOs) and Host Community (CBOs) Organisations in refugee-hosting areas. Cohere is a facilitator ensuring greater community ownership and self-reliance over humanitarian and development projects. We strengthen the CBOs/RLOs’ capacity to design multi-year strategic plans to implement and manage pioneering community-led interventions that address core community problems.
 
 **The Opportunity**
 
@@ -53,4 +53,4 @@ The RLO/CBO is expected to begin the delivery of the CSSC as soon as the final s
 
 **How to apply**
 
-To apply, please fill in this form [here](https://forms.gle/32WFRTayov72H9VYA). The application deadline is 20th July 2022.
+To apply, please fill in [this](https://forms.gle/32WFRTayov72H9VYA) form. The application deadline is 20th July 2022.
