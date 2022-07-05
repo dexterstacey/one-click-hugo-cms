@@ -2,7 +2,7 @@
 title: Capacity Strengthening Application in Nairobi
 date: 2022-07-05T09:23:29.498Z
 description: Using our in-house Capacity Strengthening and Sharing Course
-  (CSSC), we're partnering with GIZ- Civil Peace Service (CPS) to strengthen the
+  (CSSC), we're partnering with GIZ-Civil Peace Service (CPS) to strengthen the
   capacity of 3 RLOs and 3 host community CBOs actively engaged in peacebuilding
   initiatives.
 categories: jobs
