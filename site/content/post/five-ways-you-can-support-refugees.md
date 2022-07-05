@@ -5,7 +5,7 @@ description: We marked World Refugee Day on 20th June and shared inspiring
   stories from our partners all week on our digital media platforms. We
   celebrated the courage, resilience, and power of all refugees.
 categories: news
-image: img/wbsite.jpg
+image: https://news.wearecohere.org/img/wbsite.jpg
 ---
 Worldwide there are now over **100 million displaced people**. Every day that number is growing. Everyone deserves a future on their own terms, especially refugees. At Cohere, we believe that when power is transferred to refugees their communities can be transformed by them. Here are five ways you can support refugees any day:
 
