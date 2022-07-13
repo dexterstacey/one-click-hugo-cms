@@ -23,6 +23,6 @@ In many cases, CBOs and RLOs generate funding from their own communities and soc
 
 **How to apply** 
 
-To apply please complete [this](https://docs.google.com/forms/d/1CcY2T61Mm46lrM5jXwZ6To6JujoQsD_HjF6vz-ePm9E/viewform?ts=62a9eb84&edit_requested=true) google application form on or by 14th July 2022, COB. Applications are FREE of charge at all stages. If you have any questions, please contact [info@wearecohere.org](info@wearecohere.org) and cc [moses.omondi@giz.de](moses.omondi@giz.de). 
+To apply please complete [this](https://docs.google.com/forms/d/1CcY2T61Mm46lrM5jXwZ6To6JujoQsD_HjF6vz-ePm9E/viewform?ts=62a9eb84&edit_requested=true) google application form on or by 14th July 2022, COB. Applications are FREE of charge at all stages. If you have any questions, please contact [jobs@wearecohere.org](info@wearecohere.org) and cc [moses.omondi@giz.de](moses.omondi@giz.de). 
 
 [GIZ-Cohere Call for RLOs_CBOs_Expression of Interest.pdf ](https://drive.google.com/file/d/1eadWH_sab5DbtpxlZosACfLfX13G34MA/view?usp=sharing)
