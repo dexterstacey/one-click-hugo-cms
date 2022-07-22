@@ -1,5 +1,5 @@
 ---
-title: Trust and Funding Locally-Led Initiatives
+title: Trust and funding locally-led initiatives
 date: 2022-07-22T06:34:01.610Z
 description: Trust, or lack of, is often cited as a significant barrier to
   localising humanitarian aid and channelling funds directly to local leaders.
