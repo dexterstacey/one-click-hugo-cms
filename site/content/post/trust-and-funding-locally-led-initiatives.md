@@ -5,7 +5,7 @@ description: Trust, or lack of, is often cited as a significant barrier to
   localising humanitarian aid and channelling funds directly to local leaders.
   Our CEO Edmund Page takes a deeper look into what is behind this.
 categories: news
-image: img/photo-2019-12-02-15-28-58-copy.jpg
+image: https://news.wearecohere.org/img/photo-2019-12-02-15-28-58-copy.jpg
 ---
 Large NGOs are seen as trust-worthy recipients of large sums of international aid funding. This is one of the major reasons why international aid funding going to local actors has reduced from highs of 4% in 2020 to an even-worse 2% in 2021 (1) - the other 98% is going to well-trusted international actors. By my assessment, most NGOs are well-trusted because they have been able to pass thorough due diligence processes with various layers and supposed fail-safes. But every layer is fallible and the more layers you have, the higher the chance that one layer is a weak link. The only way to really trust an NGO is to go directly to the people they claim to work with and hear what they have to say. But institutional donors don’t do this enough. Instead, they trust a flimsy system of verification, that is more based on collective accreditation by the donor’s peers, than on the accreditation by the communities they are trying to help. This is particularly the case with emergency humanitarian funding, where verification is more an exercise of being asked “did you spend the money?”, than “what difference did you make with the money?”.
 
