@@ -19,20 +19,4 @@ Cohere partners with a number of refugee-led organisations in these affected are
 
 We have created a pooled-fund so you can help the organisations responding to the Ebola outbreak. Your money will support them as they run communications campaigns and awareness raising activities in their communities. By activating these initiatives quickly, they could save thousands of peoples lives, and prevent another devastating epidemic in a country that has not yet recovered from the impact of COVID-19. We must act quickly.
 
-Will you support them?
-
-
-
-<a style="text-decoration: none;
-    color: #f7f7f7;
-    text-align: center;
-    text-transform: uppercase;
-    background-color: #282828;
-    font-size: 1.2rem;
-    border: 0.2vw #282828;
-    border-radius: 1.5vmax;
-    padding:1rem;
-    cursor: pointer;
-}" href="https://www.reframe.network/pooled-funds/uganda-ebola-outbreak-response">Donate</a><br/><br/>
-
 By donating through our platform Reframe you can ensure that your money will directly reach the people who need it most. Refugee-led organisations are the first and last line of defence for their communities. When they lead, their responses tend to be more efficient, effective and sustainable. We’ve learnt this time and time again. By transferring the power and the money to them, they can transform their communities. Please support them today.
