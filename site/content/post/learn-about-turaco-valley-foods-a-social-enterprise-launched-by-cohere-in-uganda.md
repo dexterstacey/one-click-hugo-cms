@@ -10,7 +10,7 @@ description: In Uganda’s Comprehensive Refugee Response Framework (2017),
   benefiting from two growing seasons. Despite this, 70% of farmers in Uganda
   live below the $2.5 per day poverty line.
 categories: news
-image: blob:https://news.wearecohere.org/38220ddc-f795-4621-b494-89fbe657a2b9
+image: https://i.imgur.com/awQlxXf.jpg
 ---
 <!--StartFragment-->
 
@@ -30,7 +30,7 @@ In 2021, Cohere launched Turaco Valley Foods, a social enterprise owned by the N
 
 <!--EndFragment-->
 
-![](blob:https://news.wearecohere.org/2a8e0203-7956-4297-ac06-b1940cacc031)
+![](https://i.imgur.com/3DoTvEs.jpg)
 
 <!--StartFragment-->
 
@@ -44,7 +44,7 @@ This progress is a reflection of the team taking careful steps to test productio
 
 <!--EndFragment-->
 
-![](blob:https://news.wearecohere.org/3a35db3f-27de-4c1d-bd2b-b3677be47390)
+![](https://i.imgur.com/Zamu3tP.jpg)
 
 <!--StartFragment-->
 
@@ -58,4 +58,4 @@ If you are interested in finding out more or connecting with the Turaco team ple
 
 <!--EndFragment-->
 
-![](blob:https://news.wearecohere.org/384b59dc-53ec-4957-9010-381d4bc1ccf3)
+![](https://i.imgur.com/tMrxYuI.png)
