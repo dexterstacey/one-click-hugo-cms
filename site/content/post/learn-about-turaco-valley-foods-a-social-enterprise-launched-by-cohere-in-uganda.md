@@ -10,10 +10,8 @@ description: In Uganda’s Comprehensive Refugee Response Framework (2017),
   benefiting from two growing seasons. Despite this, 70% of farmers in Uganda
   live below the $2.5 per day poverty line.
 categories: news
-image: ""
+image: blob:https://news.wearecohere.org/38220ddc-f795-4621-b494-89fbe657a2b9
 ---
-![](img/image1.jpg)
-
 <!--StartFragment-->
 
 In Rwamwanja Refugee Settlement, Southwestern Uganda, households earn some of the lowest monthly income of all refugee-hosting areas in Uganda (Betts et al. 2017). Cohere began working in Rwamwanja in 2016, and we have observed first-hand the barriers local refugee farmers experience trying to improve their farm-based incomes. Refugee households often lack agricultural skills to increase yields and test new high-value crops. Most financial institutions are inaccessible for smallholders, failing to tailor services to their needs. This is perpetuated  by middlemen who come to the Settlement determining the prices without farmers knowing comparable market rates in other areas.
@@ -32,7 +30,7 @@ In 2021, Cohere launched Turaco Valley Foods, a social enterprise owned by the N
 
 <!--EndFragment-->
 
-![](img/image-2.jpg)
+![](blob:https://news.wearecohere.org/2a8e0203-7956-4297-ac06-b1940cacc031)
 
 <!--StartFragment-->
 
@@ -40,17 +38,13 @@ In recent months, Cohere’s social enterprise team has been breaking new ground
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 This progress is a reflection of the team taking careful steps to test production in batches, recording profitability of every tonne of grain milled after the direct costs of production. Through this we have tracked an average profit margin of 62% or $0.45-$0.65 in profit for every kilo of grain milled. We’re currently milling 2 tonnes of grain per day, purchased from the surrounding areas. Flour is sold within the Refugee Settlement through local shops distributed by our Tuktuk. In the near future we hope  to market flour further afield, but for now Rwamwanja and the neighbouring refugee settlement Kyaka II have plenty of demand for our flour. The flour is certified by the Government as safe and of high quality. Such flour is usually rare or unaffordable in rural refugee settlements like Rwamwanja but we’re able to sell 21% lower than other certified brands and buy our grain at higher prices. This is due to the value of storage. Buying close to harvest when grain prices are cheaper means during milling off-season we can generate higher margins and still afford to offer favourable buying and selling prices. In fact, traders may purchase grain as low as 500 UGX per kg ($0.13) at harvest, then sell a kilo at 2000 UGX ($0.52) off-season, or mill to sell the flour at 3200 UGX per kg ($0.84). In recent months, grain prices have become even more turbulent with grain and flour selling at 150% and 80% higher prices respectively. 
 
 <!--EndFragment-->
 
-![](img/image-3.jpg)
-
-
+![](blob:https://news.wearecohere.org/3a35db3f-27de-4c1d-bd2b-b3677be47390)
 
 <!--StartFragment-->
 
@@ -64,4 +58,4 @@ If you are interested in finding out more or connecting with the Turaco team ple
 
 <!--EndFragment-->
 
-![](img/image-4.png)
+![](blob:https://news.wearecohere.org/384b59dc-53ec-4957-9010-381d4bc1ccf3)
