@@ -6,7 +6,7 @@ description: Cohere is committed to providing equitable opportunities to
   on age, disability, ethnicity, origin, political belief, race, religion, sex
   or gender, sexual orientation, language, and culture.
 categories: jobs
-image: img/screenshot-2021-10-22-at-10.14.46.png
+image: https://news.wearecohere.org/img/screenshot-2021-10-22-at-10.14.46.png
 ---
 **Position**: Head of MEAL\
 **Location:** Kampala, Uganda / Nairobi, Kenya\
