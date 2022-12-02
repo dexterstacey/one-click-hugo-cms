@@ -4,7 +4,7 @@ date: 2022-07-05T11:21:35.586Z
 description: We're seeking to hire a vibrant individual for the position of
   Capacity Strengthening and Sharing Course Facilitator in Kakuma and Kalobeyei.
 categories: jobs
-image: img/cssc-kkmmm.jpg
+image: https://news.wearecohere.org/img/cssc-kkmmm.jpg
 ---
 **About Cohere (Formerly Xavier Project)**
 
