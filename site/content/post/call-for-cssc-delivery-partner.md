@@ -4,7 +4,7 @@ date: 2022-07-05T10:32:40.275Z
 description: We're seeking a qualified RLO partner who will deliver our Capacity
   Strengthening and Sharing Course (CSSC) in Kakuma and Kalobeyei.
 categories: jobs
-image: img/cssc-kkm.jpg
+image: https://news.wearecohere.org/img/cssc-kkm.jpg
 ---
 **About Cohere (Formerly Xavier Project)**
 
