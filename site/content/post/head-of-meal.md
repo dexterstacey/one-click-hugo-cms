@@ -8,7 +8,6 @@ description: Cohere is committed to providing equitable opportunities to
 categories: jobs
 image: img/screenshot-2021-10-22-at-10.14.46.png
 ---
-
 **Position**: Head of MEAL\
 **Location:** Kampala, Uganda / Nairobi, Kenya\
 **Type of contract:** Full-time\
@@ -16,7 +15,7 @@ image: img/screenshot-2021-10-22-at-10.14.46.png
 
 <span style="color:red">Cohere particularly encourages candidates who have experienced forced displacement and who have experience in MEAL or a closely related field to apply.</span>.
 
-<span style="color:#8b0000">About us</span>
+## **About us**
 
 Cohere is an international NGO of 50+ employees registered in Uganda, Kenya, and the United Kingdom that specialises in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee-hosting areas. Currently, we operate in 5 different locations across East Africa and have partnered with more than 40 RLOs. We support RLOs in strengthening their professional capacity, establishing social enterprises, and accessing resources to implement, sustain and scale out humanitarian response activities. With our RLO partners, we aim to support refugees to lead fulfilled and dignified lives and transform the humanitarian and development sectors towards more community-led responses. 
 
@@ -24,13 +23,13 @@ In recent years, refugee-led organisations have finally received some recognitio
 
 Cohere is one organisation that also needs to reform to be fit for purpose in playing a key role in these critical changes. We are part way through a five-year process that will enable our organisation’s work to be informed, guided, and led by the people whose lives we affect through our work. We are committed to continuing this journey in a transparent manner so that we can share the process with the rest of the sector.
 
-<span style="color:#8b0000">Job description</span>
+## **Job description**
 
 Cohere is looking to recruit for the position of ‘Head of MEAL’ either in  Uganda or Kenya who will have a leading role in the design, development, and implementation of the organisation´s MEAL  as well as a meaningful contribution to the progress of Cohere by building new localization indicators in adherence with Cohere’s vision and mission.
 
 The Head of MEAL will also, in coordination with the team, participate in the development, monitoring, and reporting of indicators holding COHERE accountable for its commitment to refugee leadership over each step of the organisation’s decision-making processes around our programs, structures, and policies. 
 
-<span style="color:#8b0000">Responsibilities </span>
+## **Responsibilities**
 
 **Pilot the implementation of Cohere's MEAL strategy**
 
@@ -58,7 +57,7 @@ The Head of MEAL will also, in coordination with the team, participate in the de
 * Generate data that will feed into COHERE’s advocacy strategy to shift power, and that will position COHERE as leading by example on the thematics it advocates for.
 * Work closely with the Head of Communications to ensure data-driven editorial content. 
 
-<span style="color:#8b0000">Essential requirements</span>
+## **Essential requirements**
 
 * Graduate or Postgraduate degree or equivalent in terms of experience in an RLO or CBO, in a field related to project and MEAL management, international development, statistics, demography, data management, and other relevant areas.
 * Proven progressive responsibility in a similar position.
@@ -83,7 +82,7 @@ The Head of MEAL will also, in coordination with the team, participate in the de
 * Responsible and systematic work approach
 * Enthusiasm and self-initiative
 
-<span style="color:#8b0000">Desired requirements</span> 
+## **Desired requirements** 
 
 * Experience or strong understanding of challenges faced by refugees and other marginalised communities in East Africa. 
 * Experience in working in M&E for an RLO or refugee-led initiative or a CBO working on forced displacement.
@@ -92,9 +91,8 @@ The Head of MEAL will also, in coordination with the team, participate in the de
 * Exceptional willingness to ensure meaningful participation, inclusion, and engagement for all team members and external partners. 
 * Experience in working within a refugee context including challenging fieldwork conditions.
 * Experience working with a diverse team of people from different backgrounds
- 
 
-<span style="color:#8b0000">What we offer</span> 
+## **What we offer** 
 
 * Working in an international team of visionary and motivated individuals 
 * Opportunities for personal and professional growth
@@ -103,11 +101,10 @@ The Head of MEAL will also, in coordination with the team, participate in the de
 * 25 days of annual leave
 * Opportunity to work remotely
 
-<span style="color:#8b0000">How to apply</span>
+## **How to apply**
 
 To apply for this position, please complete and submit this [Job Application Form](https://forms.gle/kiQ4duJ6SxTdQ37n7). In addition, please submit your CV and use your name and the job title “Head of MEAL” in the email subject. Please note that only the CVs of short-listed candidates will be considered and therefore we ask you to include the most relevant information from your CV in the application form. If you are interested in applying for more than one position advertised by Cohere, please do so separately following the instructions in the relevant job application.
 
-The deadline for submitting the online form and your CV is ***31st January 2023*** at midnight (EAT) to <jobs@wearecohere.org>. As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. For more information about our work please visit [www.wearecohere.org](http://www.wearecohere.org)
-
+The deadline for submitting the online form and your CV is ***31st January 2023*** at midnight (EAT) to [jobs@wearecohere.org](mailto:jobs@wearecohere.org). As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. For more information about our work please visit [www.wearecohere.org](http://www.wearecohere.org)
 
 *This is a secure form and your application will only be accessed by Cohere’s selection panel for this position and the Cohere Human Resources department.*
