@@ -5,7 +5,7 @@ description: We're partnering with GIZ-Civil Peace Service (CPS) to strengthen
   the capacity of 3 RLOs and 3 host community CBOs engaged in peacebuilding
   initiatives.
 categories: jobs
-image: img/cssc-nrb.jpg
+image: https://news.wearecohere.org/img/cssc-nrb.jpg
 ---
 **About Cohere (formerly Xavier Project)**
 
