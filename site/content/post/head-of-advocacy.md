@@ -6,7 +6,7 @@ description: Cohere is committed to providing equitable opportunities to
   on age, disability, ethnicity, origin, political belief, race, religion, sex
   or gender, sexual orientation, language, and culture.
 categories: jobs
-image: blob:https://news.wearecohere.org/2416d9ba-4872-4e3d-85ab-79e957ee1f5d
+image: https://raw.githubusercontent.com/sianwa11/Recipefy/master/advocacy.png
 ---
 **Position**: Head of Advocacy\
 **Location:** East-Africa or remote position. Remote candidates should be flexible regarding working hours in order to take  calls and meetings with international colleagues.\
