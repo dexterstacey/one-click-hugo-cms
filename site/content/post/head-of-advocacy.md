@@ -13,7 +13,7 @@ image: https://raw.githubusercontent.com/sianwa11/Recipefy/master/advocacy.png
 **Type of contract:** Full-time\
 **Salary:** 2,000 to 3,500 USD gross monthly according to experience and location cost of living.
 
-<span style="color:red">Cohere particularly encourages candidates who have experienced forced displacement and who have experience in MEAL or a closely related field to apply</span>.
+<span style="color:red">Cohere particularly encourages candidates who have experienced forced displacement and who have experience in advocacy or a closely related field to apply</span>.
 
 ## **About us**
 
