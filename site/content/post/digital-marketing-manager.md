@@ -6,6 +6,7 @@ description: Cohere is committed to providing equitable opportunities to
   on age, disability, ethnicity, origin, political belief, race, religion, sex
   or gender, sexual orientation, language, and culture.
 categories: jobs
+image: https://i.imgur.com/1jMTd3G.jpeg
 ---
 **Position**: Digital Market Manager\
 **Location:** Nairobi, Kenya\
