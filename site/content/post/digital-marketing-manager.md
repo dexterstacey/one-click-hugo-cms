@@ -25,7 +25,7 @@ In recent years, refugee-led organisations have finally received some recognitio
 
 Cohere is looking to recruit for the position of ‘Digital Marketing Manager’ in Kenya who will play an important role in helping us connect with new audiences and donors through our communications. We believe that we have an important message to tell and so many stories of how refugee-led organisations are leading change in their communities and we want to reach people who will work with us and support our, and our partners’, work.
 
-The Digital Marketing Manager will work as part of the Communications team to develop a strategy to grow our online presence, improve our content and optimize our digital platforms, including our website, e-newsletter, our social media channels and our RLO platform [Reframe](www.reframe.network). Through targeted and strategic digital communications we want to showcase our work, deliver advocacy messages and fundraise for our work.  We are looking for a creative, ambitious and skilled digital marketeer to join our team in 2023. 
+The Digital Marketing Manager will work as part of the Communications team to develop a strategy to grow our online presence, improve our content and optimize our digital platforms, including our website, e-newsletter, our social media channels and our RLO platform [Reframe](https://reframe.network/). Through targeted and strategic digital communications we want to showcase our work, deliver advocacy messages and fundraise for our work.  We are looking for a creative, ambitious and skilled digital marketeer to join our team in 2023. 
 
 **Responsibilities**
 
