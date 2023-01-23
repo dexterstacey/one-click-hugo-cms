@@ -13,13 +13,17 @@ image: https://i.imgur.com/1jMTd3G.jpeg
 **Type of contract:** Full-time\
 **Salary:** 150,000 to 179,000 Kenyan Shillings gross depending on experience.
 
-<span style="color:red">Cohere particularly encourages candidates who have experienced forced displacement and who have experience in advocacy or a closely related field to apply</span>.
+<span style="color:red"><!--StartFragment-->
+
+Cohere particularly encourages candidates who have experienced forced displacement and who have experience or a closely related field to apply
+
+<!--EndFragment--></span>.
 
 ## **About us**
 
 Cohere is an international NGO of 50+ employees registered in Uganda, Kenya, and the United Kingdom that specialises in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee-hosting areas. Currently, we operate in 5 different locations across East Africa and partner with more than 40 RLOs across the African continent. We support RLOs in strengthening their professional capacity, establishing social enterprises, and accessing resources to implement, sustain and scale out humanitarian response activities. With our RLO partners, we aim to support refugees to lead fulfilled and dignified lives and transform the humanitarian and development sectors towards more community-led responses.
 
-In recent years, refugee-led organisations have finally received some recognition for the critical work they do as first responders to refugee crises as well as crises faced by the wider community, such as COVID-19, Ebola, and famine. RLOs are also key actors in promoting the integrated development of refugee-hosting areas all over the world. Recognition of their work, however, and the number of new RLOs emerging as key players and humanitarian actors have not been enough to shift meaningful humanitarian funding to RLOs. RLOs still receive less than 1% of the international aid allocated to refugee responses. By raising awareness of these challenges/issues through strategic messaging and storytelling we want to encourage audiences to consider a better way of working that is refugee-led, and therefore more effective, efficient and sustainable. We know we have a powerful message to share and we want to make sure that we are reaching audiences around the world so they can engage, support and take action to support us, and our partners, on our mission to a broken system.  By transferring power, communities can be transformed.
+In recent years, refugee-led organisations have finally received some recognition for the critical work they do as first responders to refugee crises as well as crises faced by the wider community, such as COVID-19, Ebola, and famine. RLOs are also key actors in promoting the integrated development of refugee-hosting areas all over the world. Recognition of their work, however, and the number of new RLOs emerging as key players and humanitarian actors have not been enough to shift meaningful humanitarian funding to RLOs. RLOs still receive less than 1% of the international aid allocated to refugee responses. By raising awareness of these challenges/issues through strategic messaging and storytelling we want to encourage audiences to consider a better way of working that is refugee-led, and therefore more effective, efficient and sustainable. We know we have a powerful message to share and we want to make sure that we are reaching audiences around the world so they can engage, support and take action to support us, and our partners, on our mission to transform the humanitarian sector.  By transferring power, communities can be transformed.
 
 ## Job description
 
@@ -96,6 +100,6 @@ Please submit your application to [jobs@wearecohere.org](mailto:jobs@wearecohere
 
 If you are interested in applying for more than one position advertised by Cohere, please do so separately following the instructions in the relevant job application.
 
-The deadline for submitting the online form and your CV along with some relevant samples of work is **18th February 2023 at midnight (EAT)** to[ jobs@wearecohere.org](mailto:jobs@wearecohere.org). As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. For more information about our work please visit [www.wearecohere.org](https://www.wearecohere.org/)
+The deadline for submitting the online form and your CV along with some relevant samples of work is **20th February 2023 at midnight (EAT)** to[ jobs@wearecohere.org](mailto:jobs@wearecohere.org). As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. For more information about our work please visit [www.wearecohere.org](https://www.wearecohere.org/)
 
 *This is a secure form and your application will only be accessed by Cohere’s selection panel for this position and the Cohere Human Resources department.*
