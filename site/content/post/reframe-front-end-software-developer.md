@@ -6,7 +6,7 @@ description: Cohere is committed to providing equitable opportunities to
   on age, disability, ethnicity, origin, political belief, race, religion, sex
   or gender, sexual orientation, language, and culture.
 categories: jobs
-image: https://raw.githubusercontent.com/sianwa11/Trillo/main/img/IMG_2578.jpg?token=GHSAT0AAAAAAB47WKV7SDDY3PCXG3W3EGHOY6ZIPCQ
+image: https://i.imgur.com/5ZWwkw7.jpeg
 ---
 **Position:** Frontend Developer Reframe
 
