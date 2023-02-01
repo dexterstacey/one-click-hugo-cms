@@ -11,7 +11,7 @@ image: https://github.com/sianwa11/Portfolio./blob/main/img/Eldoma.jpeg?raw=true
 **Position**: Chief of staff\
 **Location:** Kampala, Uganda \
 **Type of contract:** Full-time\
-**Salary:** 14,000,000 -5,200,000 Million,Ugandan Shillings gross depending on experience.
+**Salary:** 4,000,000 - 5,200,000 Million,Ugandan Shillings gross depending on experience.
 
 <span style="color:red">Cohere particularly encourages candidates who have experienced forced displacement and who have experience in Human resource management  or a closely related field to apply.</span>
 
