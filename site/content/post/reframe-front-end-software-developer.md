@@ -16,7 +16,9 @@ image: https://i.imgur.com/5ZWwkw7.jpeg
 
 **Salary:**  120,000 -140,000 ksh depending on experience
 
-# **A﻿bout us**
+**[Applications for this post are now closed](#)**
+
+# **[](#)A﻿bout us**
 
 Cohere is an international NGO of 50+ employees registered in Uganda, Kenya, and the United Kingdom that specializes in building holistic partnerships with Refugee-Led Organisations (RLO) in refugee-hosting areas. Currently, we operate in 5 different locations across East Africa and have partnered with more than 40 RLOs. We support RLOs in strengthening their professional capacity, establishing social enterprises and accessing resources to implement, sustain and scale-out humanitarian response activities. With our RLO partners, we aim to support refugees to lead fulfilled and dignified lives and transform the humanitarian and development sectors towards more community-led responses.
 
@@ -67,20 +69,6 @@ The following skills are not “required” but will make your profile stand out
 * 25 days of annual leave
 * flexi-working
 
-##### **Application process**
-
-Please be sure that the application includes:
-
-* A CV of 2 pages maximum
-* One or more relevant work samples that demonstrate your past work.
-* Your answers to this form [Front end software application](https://docs.google.com/forms/d/e/1FAIpQLSdYoLlDd7x0zvCtDh0r3jZHK9tpt8GKpH80TMAxOA3FQfTwMA/viewform?usp=sf_link).
-
-Please note that only the CVs of short-listed candidates will be considered and therefore we ask you to include the most relevant information from your CV in the application form. Please respond specifically to the criteria outlined about
-
-If you are interested in applying for more than one position advertised by Cohere, please do so separately following the instructions in the relevant job application.
-
-The deadline for submitting the online form and your CV along with some relevant samples of work is **28th February 2023 at midnight** (EAT) to [jobs@wearecohere.org](mailto:jobs@wearecohere.org). As the selection of applicants will be conducted on a rolling basis, we encourage you to apply as soon as possible. For more information about our work please visit [www.wearecohere.org](http://www.wearecohere.org/)
 
 
-
-*This is a secure form and your application will only be accessed by Cohere’s selection panel for this position and the Cohere Human Resources department.*
+**[Applications for this post are now closed](#)**
