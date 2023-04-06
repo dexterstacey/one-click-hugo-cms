@@ -12,7 +12,7 @@ The grant of $2.5 million has been given to build on our work supporting refugee
 
 Cohere's work currently benefits 55,738 people through a network of 42 Refugee Led Organisations. This generous grant contributes meaningfully to our 2023 projected expenses but the continued support of donors to achieve our 2023 objectives - and other long-term development goals - is necessary.
 
-Lost Horse is committed to[ ‘supporting the voice and opportunities of people from underserved communities’ ](https://mackenzie-scott.medium.com/of-and-by-104c6ff53ff0)including Cohere amongst the 343 organisations that were beneficiaries of this generous donation. 
+Lost Horse is committed to[ ‘supporting the voice and opportunities of people from underserved communities’ ](https://mackenzie-scott.medium.com/of-and-by-104c6ff53ff0) including Cohere amongst the 343 organisations that were beneficiaries of this generous donation. 
 
 As Mackenzie Scott wrote in her announcement of the donations, she was  inspired by a quote ‘used in disability communities: “Nothing about us without us.”’ which corresponds to Cohere’s objectives and aspirations impacting refugee communities Refugees must be in the driving seat of the decisions that impact their lives deciding their future on their own terms. 
 
