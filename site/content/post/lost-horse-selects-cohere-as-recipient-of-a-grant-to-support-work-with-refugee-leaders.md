@@ -6,13 +6,13 @@ description: "At the end of 2022 Cohere was selected to be the recipient of a
   grant from the North American philanthropic organisation, Lost Horse
   Foundation. "
 categories: news
+image: https://i.imgur.com/PCaJC3A.jpg
 ---
 The grant of $2.5 million has been given to build on our work supporting refugee-led organisations across the African continent, acknowledging Cohere's role in advancing social justice and combating social inequalities amongst refugees through a wide spectrum of partnerships with refugee-led organisations and the growth of our innovative platform, Reframe.
 
 Cohere's work currently benefits 55,738 people through a network of 42 Refugee Led Organisations. This generous grant contributes meaningfully to our 2023 projected expenses but the continued support of donors to achieve our 2023 objectives - and other long-term development goals - is necessary.
 
-Lost Horse is committed to ‘supporting the voice and opportunities of people from underserved communities’ including Cohere amongst the 343 organisations that were beneficiaries of this generous donation. 
-[(https://mackenzie-scott.medium.com/of-and-by-104c6ff53ff0)](https://mackenzie-scott.medium.com/of-and-by-104c6ff53ff0)
+Lost Horse is committed to[ ‘supporting the voice and opportunities of people from underserved communities’ ](https://mackenzie-scott.medium.com/of-and-by-104c6ff53ff0)including Cohere amongst the 343 organisations that were beneficiaries of this generous donation. 
 
 As Mackenzie Scott wrote in her announcement of the donations, she was  inspired by a quote ‘used in disability communities: “Nothing about us without us.”’ which corresponds to Cohere’s objectives and aspirations impacting refugee communities Refugees must be in the driving seat of the decisions that impact their lives deciding their future on their own terms. 
 
