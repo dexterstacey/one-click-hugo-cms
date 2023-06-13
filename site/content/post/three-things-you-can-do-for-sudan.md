@@ -29,7 +29,6 @@ To compound these disasters, Sudan is facing extreme food shortages in part due 
   ![In the news](https://raw.githubusercontent.com/sianwa11/Test-Driven-Laravel/master/blog-img-1.png "In the news")
 
   ![Top Stories](https://raw.githubusercontent.com/sianwa11/Test-Driven-Laravel/master/blog-img-2.png "Top stories")
-
 * **Demand more humanitarian aid from your government**
 
   The UK government in 2021 reduced the commitment to overseas aid from
@@ -42,20 +41,10 @@ To compound these disasters, Sudan is facing extreme food shortages in part due 
   will affect the whole world. Consider writing to your member of
   parliament or to the all-party parliamentary group on foreign affairs
   expressing the urgency of reversing this trend.
-
 * **Donate**
 
-Search for "donate to Sudan" online and a number of sponsored links fill
-your screen showing ways you can support the crisis financially. Many of
-these links are to large humanitarian agencies who have good experience
-in getting the right kind of aid to the people who need it, though at
-what cost? For an alternative approach consider giving funds directly to
-a grassroots organisation that is responding to the crisis within their
-own communities. Local organisations often understand the more pressing
-needs and will build in long term plans to help the community for the
-longer term once the crisis is out of the fundraising spotlights.
+  Search for “donate to Sudan” online and a number of sponsored links fill your screen showing ways you can support the crisis financially. Many of these links are to large humanitarian agencies who have good experience in getting the right kind of aid to the people who need it, though at what cost? For an alternative approach consider giving funds directly to a grassroots organisation that is responding to the crisis within their own communities. Local organisations often understand the more pressing needs and will build in long term plans to help the community for the longer term once the crisis is out of the fundraising spotlights. ganisations often understand the more pressing needs and will build in long term plans to help the community for the longer term once the crisis is out of the fundraising spotlights. 
 
-Donate through Reframe and every penny raised goes to local
-organisations run by people who have themselves been forcibly displaced.
+  Donate through Reframe and every penny raised goes to local organisations run by people who have themselves been forcibly displaced. 
 
-[DONATE](https://reframe.network/pooled-funds/sudan-pooled-fund--for-refugee-led-organisations-responding-to-the-crisis-in-sudan)
+  [D﻿ONATE](https://reframe.network/pooled-funds/sudan-pooled-fund--for-refugee-led-organisations-responding-to-the-crisis-in-sudan)
