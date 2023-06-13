@@ -4,6 +4,7 @@ date: 2023-06-12T08:07:24.266Z
 description: The crisis in Sudan is still worsening everyday.  Here are three
   ways you can take action.
 categories: news
+image: https://raw.githubusercontent.com/sianwa11/Test-Driven-Laravel/master/blog-img-3.png
 ---
 On the 15th April 2023, violence broke out in Sudan’s capital Khartoum between the country’s army and a paramilitary group called the Rapid Support Forces. The situation has continued to escalate and has spread to areas across the country, including the Darfur region.
 
