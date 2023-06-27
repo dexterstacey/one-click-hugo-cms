@@ -34,3 +34,9 @@ Refugee leaders and organisations, who are our first responders play a critical 
 **Support Local Refugee Businesses:**
 
 Many refugees possess valuable skills, talents, and entrepreneurial spirits. Support their journey towards self-reliance by purchasing products or services from local refugee-owned businesses. Whether it's a restaurant, bakery, craft shop, or service-based venture, your support contributes to their livelihoods and fosters a sense of belonging in their new communities.
+
+
+
+**Conclusion**
+
+On World Refugee Day and every day, let us stand in solidarity with refugees worldwide. By educating ourselves, volunteering, [donating](https://reframe.network/discover.php), advocating, and showing empathy, we can help create a more compassionate and inclusive world for those seeking refuge. Remember, every action, no matter how small, has the power to transform lives and restore hope to those who need it most.
