@@ -22,7 +22,7 @@ Time: **14:00 to 15:00** **CEST**
 
 Venue: **Le Petit Salon, R-space, Geneva Impact Hub.**
 
-**[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
+## **[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
 
 Context:
 
@@ -42,7 +42,7 @@ The session in Geneva will allow participants to actively workshop challenges an
 
 
 
-**[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
+## **[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
 
 
 
