@@ -6,7 +6,7 @@ description: Join Cohere at the R-Space, Geneva Impact Hub, for a one hour
   in-person interactive workshop about the internal adjustments organizations
   need to do to enable meaningful participation and refugee leadership.
 categories: news
-image: https://images2.imgbox.com/fb/cc/pc7fFdW9_o.jpg
+image: https://images2.imgbox.com/b9/e3/1yxBuVAq_o.jpg
 ---
 There is growing encouragement for refugee response organizations to embark on an ‘internal learning journey’, where we learn what we need to do to promote refugee leadership, and *unlearn* problematic behaviors that breed exclusion. But what does this mean in practice, and where do we begin? How can we avoid common pitfalls and instead ensure our learning turns to action?  Join us to find out.
 
@@ -24,19 +24,7 @@ Venue: **Le Petit Salon, R-space, Geneva Impact Hub.**
 
 #### **[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
 
-
-
-
-
-
----
-
-
-
-
-
-
-
+- - -
 
 Context:
 
@@ -46,27 +34,19 @@ Cohere humbly **acknowledges that it is on its own equity learning journey**. We
 
 This Interactive Workshop Series is for anyone who wants to support their organization to take concrete steps in supporting refugee leadership and meaningful participation. Each session is co-organized with an expert or set of experts, many of whom have personally experienced forced displacement, on the topics that can support our collective learning and growing. Our key topics will be as follows:
 
-October 2023 
-
-* *[Internal equity learning journeys](https://www.youtube.com/watch?v=tPBjlwG7ugI)*
-
-November 2023
-
-* *[Recruitment and hiring of people of forced displacement](https://www.youtube.com/watch?v=53g3yf2f7_k)*
-
-January 2024
-
-* Equitable partnerships with RLOs
-
-February 2024
-
-* Funding and institutional support to RLOs 
+1. October 2023: *[Internal equity learning journeys](https://www.youtube.com/watch?v=tPBjlwG7ugI)*
+2. November 2023:*[Recruitment and hiring of people of forced displacement](https://www.youtube.com/watch?v=53g3yf2f7_k)*
+3. January 2024:Equitable partnerships with RLOs
+4. February 2024:Funding and institutional support to RLOs 
+5. March 2024:Refugee-led advocacy
 
 
 
-March 2024
 
-* Refugee-led advocacy
+
+- - -
+
+
 
 
 
