@@ -30,7 +30,7 @@ Cohere humbly **acknowledges that it is on its own equity learning journey**. We
 This Interactive Workshop Series is for anyone who wants to support their organization to take concrete steps in supporting refugee leadership and meaningful participation. Each session is co-organized with an expert or set of experts, many of whom have personally experienced forced displacement, on the topics that can support our collective learning and growing. Our key topics will be as follows:
 
 1. October 2023: *[Internal equity learning journeys ](https://www.youtube.com/watch?v=tPBjlwG7ugI)*
-2. November 2023: *[Recruitment and hiring of people of forced displacemen](https://www.youtube.com/watch?v=53g3yf2f7_k)*t 
+2. November 2023: *[Recruitment and hiring of people of forced displacement ](https://www.youtube.com/watch?v=53g3yf2f7_k)*
 3. January 2024: *Equitable partnerships with RLOs*
 4. February 2024: *Funding and institutional support to RLOs* 
 5. March 2024: *Refugee-led advocacy*
