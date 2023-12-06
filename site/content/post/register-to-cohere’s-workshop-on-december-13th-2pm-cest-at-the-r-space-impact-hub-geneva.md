@@ -24,6 +24,20 @@ Venue: **Le Petit Salon, R-space, Geneva Impact Hub.**
 
 #### **[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
 
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
 Context:
 
 In October 2023, Cohere launched a five-part Interactive Workshop Series free of charge for fellow refugee response practitioners, academics and funders.  In contrast to other spaces that are focused on meaningful participation in external engagement, *this Interactive Workshop Series is focused on what our own organizations need to do in-house to operate with equity and integrity*. Afterall, the pursuit of meaningful participation is about rectifying historic exclusion. What better place to start to address this than at home?
@@ -32,25 +46,25 @@ Cohere humbly **acknowledges that it is on its own equity learning journey**. We
 
 This Interactive Workshop Series is for anyone who wants to support their organization to take concrete steps in supporting refugee leadership and meaningful participation. Each session is co-organized with an expert or set of experts, many of whom have personally experienced forced displacement, on the topics that can support our collective learning and growing. Our key topics will be as follows:
 
-###### **October 2023** 
+October 2023 
 
 * *[Internal equity learning journeys](https://www.youtube.com/watch?v=tPBjlwG7ugI)*
 
-###### **November 2023**
+November 2023
 
 * *[Recruitment and hiring of people of forced displacement](https://www.youtube.com/watch?v=53g3yf2f7_k)*
 
-###### **January 2024**
+January 2024
 
 * Equitable partnerships with RLOs
 
-###### **February 2024**
+February 2024
 
 * Funding and institutional support to RLOs 
 
 
 
-###### **March 2024**
+March 2024
 
 * Refugee-led advocacy
 
