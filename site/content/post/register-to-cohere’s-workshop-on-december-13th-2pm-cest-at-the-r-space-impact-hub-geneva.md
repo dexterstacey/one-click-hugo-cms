@@ -50,4 +50,4 @@ Or scan the QR code to register
 
 
 
-![scan the QR code to register](https://images2.imgbox.com/5f/6b/3SUaCbWM_o.jpg "scan the QR code to register")
+![scan the QR code to register](https://images2.imgbox.com/59/1f/Jltanl5a_o.jpg "scan the QR code to register")
