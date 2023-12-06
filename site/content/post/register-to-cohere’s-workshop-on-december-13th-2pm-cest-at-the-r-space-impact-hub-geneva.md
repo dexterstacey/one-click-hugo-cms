@@ -22,9 +22,7 @@ Time: **14:00 to 15:00** **CEST**
 
 Venue: **Le Petit Salon, R-space, Geneva Impact Hub.**
 
-<div style="text-align:center; font-size: 25px;">
-    <a href="https://forms.gle/rsF2L9zc47uJSwTa9">Register here</a>
-</div>
+**[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
 
 Context:
 
@@ -42,13 +40,14 @@ This Interactive Workshop Series is for anyone who wants to support their organi
 
 The session in Geneva will allow participants to actively workshop challenges and pathways to navigate Internal Learning Journeys, engage in discussions about application of pathways, and leave with concrete, actionable steps, to inform their organization’s pursuit of meaningful Participation and Refugee Leadership.
 
-<div style="text-align:center; font-size: 25px;">
-    <a href="https://forms.gle/rsF2L9zc47uJSwTa9">Register here</a>
-</div>
 
 
-<div style="text-align:center">
-    <p>Or scan the QR code to register</p>
-</div>
+**[Register here](https://forms.gle/rsF2L9zc47uJSwTa9)**
 
-<img src="https://images2.imgbox.com/5f/6b/3SUaCbWM_o.jpg" alt="Your Image Alt Text" height="300">
+
+
+Or scan the QR code to register
+
+
+
+![scan the QR code to register](https://images2.imgbox.com/5f/6b/3SUaCbWM_o.jpg "scan the QR code to register")
