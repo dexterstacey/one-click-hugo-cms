@@ -1,10 +1,10 @@
 ---
 title: The future of inclusivity at the Global Refugee Forum (GRF)
 date: 2024-03-15T12:36:05.343Z
-description: Last December, members from the Cohere team travelled to Geneva,
+description: "Last December, members from the Cohere team travelled to Geneva,
   Switzerland for the Global Refugee Forum. Unfortunately, ALL of the refugee
-  leaders who we partner with were declined visas. Read our most recent blog to
-  get our team’s reflections on these barriers to inclusion.
+  leaders who we partner with were declined visas. Read our Advocacy team’s
+  thoughts and reflections on the impact of these barriers to inclusion. "
 categories: news
 image: https://images2.imgbox.com/f2/43/gnr1IqhG_o.jpg
 ---
