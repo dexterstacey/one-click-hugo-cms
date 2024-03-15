@@ -1,0 +1,59 @@
+---
+title: The future of inclusivity at the Global Refugee Forum (GRF)
+date: 2024-03-15T12:36:05.343Z
+description: Last December, members from the Cohere team travelled to Geneva,
+  Switzerland for the Global Refugee Forum. Unfortunately, ALL of the refugee
+  leaders who we partner with were declined visas. Read our most recent blog to
+  get our team’s reflections on these barriers to inclusion.
+categories: news
+image: https://images2.imgbox.com/f2/43/gnr1IqhG_o.jpg
+---
+Three months after the conclusion of the second edition of the[ Global Refugee Forum](https://www.unhcr.org/global-refugee-forum-2023) (GRF), some insightful reflections are emerging on how the GRF fared. One [such example](https://www.refugeeslead.org/post/beyond-pledges-platitudes-a-refugee-led-insight-into-the-2023-global-refugee-forum) is that of the Resourcing Refugee Led Initiatives (RRLI). We agree with most of the observations shared by RRLI. In this blog, we zoom our focus on one particular burning issue, which is the question of inclusivity in future GRFs. 
+
+
+
+We note that, as further shown below, the 2023 GRF was woefully inaccessible to forcibly displaced persons (FDPs), on whose behalf it is convened. Solutions for this problem should be championed by all “like-minded actors” committed to challenging some of the obsolete working methodologies of the international refugee response sector (so to speak, the long-term objective of “shifting power”). By this shifting power, we mean the necessity of ensuring that responses to forced displacement are done in a way that meaningfully includes the perspective of people most affected by forced displacement.
+
+We recognise the GRF as the most important quadrennial global event established by the 2018 [Global Compact on Refugees](https://www.unhcr.org/about-unhcr/who-we-are/global-compact-refugees) (GCR) with the purpose of improving policy and practice in everything related to responses to forced displacement. In that sense, we also recognise the GCR as a unique international consensus document on forced displacement, arguably the first of its kind since the adoption of the 1951 Refugee Convention and its 1967 Protocol. Thus, the GRF has peculiar relevance to all advocacy work related to the objective of shifting power.
+
+
+
+Without discounting some significant opportunities for “advocacy, networking, and dialogue for refugee communities, leaders, and allies” that the 2023 GRF offered (as noted by RRLI), we observe that there are areas that need critical reflection and proper planning for future GRFs to achieve more profound outcomes . Real concerns of access, representation and inclusivity at the GRF need to be addressed meaningfully and quickly.
+
+
+
+Access in the present sense does not necessarily mean to the formal sessions of the GRF that took place in Palexpo. In fact, some of the most important networking and advocacy opportunities actually took place in other parallel or informal sessions outside Palexpo, including at the innovative R-Space (refugee space), a venue organised under the auspices of refugee leaders themselves in collaboration with their allies (from funders to other actors). In a classic instance of exclusion, however, many refugee leaders were unable to make the best out of such rare opportunities of networking and advocacy due to visa-related obstacles. This should give rise to critical questions about how the next GRFs can be  organised, including by considering the feasibility of alternative venues, in locations accessible to all.
+
+We say this from experience as some of our RLO partners were unable to attend the GRF for exactly this reason. Four refugee leaders who had planned to make the journey to Geneva from East Africa had their visa applications rejected despite having formal invitation letters from UNHCR and institutional support for their trip from Cohere. All of them are leaders of refugee-led organisations and members of our Refugee Advisory Board, one of our major governance structures, having more or less the same decision-making powers as our other “traditional” advisory boards.
+
+
+
+It was noted during the GRF that there was one peculiarly [incongruent aspect of this experience](https://twitter.com/EdmundPage/status/1734877471726571863),“an irony of ironies”. One of the individuals ([Deline Ramiro](https://www.unrefugees.org/news/meet-three-fearless-young-refugees-who-are-leaving-a-positive-mark-on-their-communities/)) whose visa application  was rejected was actually a “[poster child](https://www.unhcr.org/global-refugee-forum-2023)” of the GRF itself, and yet was unable to travel to Geneva. We recognise that this challenge is fundamentally linked to the way visa regimes are administered by Global North countries and other related factors of the international refugee response sector (the system), in which context UNHCR operates. That “system,” unfortunately, still has an attribute of never failing in failing the legitimate aspirations of FDPs. On the other hand, to those who were most affected by the disheartening experiences of visa rejections in December 2013, our call is to never despair (albeit how difficult the circumstances can be).
+
+![](https://images2.imgbox.com/d2/31/hr9j6vRp_o.jpg)
+
+
+
+
+
+This experience shall indeed come as a poignant reminder of the need to harness more efforts towards our joint objective of systemic change. This requires investing more in the idea of movement building, a proposal which seems to be gaining momentum within a so-called circle of “like-minded actors” (from RLOs, to funders, intermediaries, and others) that are genuinely committed to doing more.
+
+
+
+Like any other struggle for inclusivity, shifting power into the hands of displacement-affected communities continues to be challenged by the recalcitrant behaviour of some humanitarian actors**.** Nonetheless, our experience of the last six years shows that through collective effort even the most invincible grounds of power can indeed be shifted. Since the affirmation of the GCR, we have seen unprecedented proliferation of RLOs and other new movements committed to change. The struggle unleashed by this global movement has already entered an irreversible stage and the tides are changing. The question now is how to capitalise on such achievements in a sustainable way.
+
+
+
+There is indeed more that needs to be done by a collaborative effort of like-minded actors, because no organisation, initiative or entity, can achieve this noble objective single-handedly. The imperative for collaborative efforts is self-evident, as we are trying to show through our newly [initiated Interactive Workshop Series](https://www.youtube.com/@cohere5588/videos) (IWS), which features various insights on how to better colascene collective advocacy work of shifting power in a way that helps convert into meaningful systemic change. For the next GRF, work must start from now, so that plans can be implemented with better preparation. As always, we are more than ready to join hands with all like-minded actors to advocate for better.
+
+
+
+In simple terms, we are calling for a reinvigorated and broader coalescence of the kind of innovative effort we witnessed at the R-Space. The preparatory work for a more inclusive next GRF should start from now by pooling together the resources of like-minded actors committed to see genuine inclusion. One key task is pushing for the adoption of concrete measures that any refugee leader who receives an official invitation from UNHCR is not subjected to an arbitrary visa rejection as experienced in the 2023 GRF.
+
+
+
+F﻿ollow us on [X](https://twitter.com/WeAreCohere_Org) to keep up-to-date with our advocacy initiative.
+
+
+
+![](https://images2.imgbox.com/3e/c1/G5INRnZS_o.jpg)
