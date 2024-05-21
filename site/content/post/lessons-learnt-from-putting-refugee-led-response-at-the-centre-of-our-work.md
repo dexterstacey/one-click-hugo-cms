@@ -1,55 +1,33 @@
 ---
 title: Lessons learnt from putting refugee led response at the centre of our work
 date: 2024-05-21T09:27:56.639Z
-description: Since 2014, the refugee population has more than quadrupled from
-  390,000 to what it is today
+description: "Programme Lead, Micheal Gumisiriza, shares his reflections and
+  learnings from partnering with refugee-led organisations in Uganda. "
 categories: news
 image: https://images2.imgbox.com/53/a1/rQq7wbOe_o.jpg
 ---
 The latest statistics show that Uganda is currently [hosting 1.6 million refugees by April, 2024](https://data.unhcr.org/en/country/uga). This is the highest number in any African country. Since 2014, the refugee population has more than quadrupled from 390,000 to what it is today This has put Uganda among the top five refugee hosting countries, globally. Despite hosting this vast number of refugees, Uganda was not among the [top 15 recipients](https://www.statista.com/statistics/263423/major-refugee-hosting-countries-worldwide/) of humanitarian funding in 2023. Actually, Uganda has seen humanitarian aid significantly reduced in recent times. In 2022, less than half of Uganda’s required funding to support its refugee response was achieved, according to reports from the Norwegian Refugee Council. Facing a funding shortfall, the World Food Programme [cut its food rations](https://www.africanews.com/2023/10/03/uganda-refugees-struggle-to-survive-following-aid-cuts/) in Uganda from 70% to 30%, in 2023.
 
-
-
 Uganda’s progressive refugee policies have been commended world over, but in view of the ever-increasing number of refugees in the country, without a commensurate number of resources being deployed to respond to this situation, it is safe to say that the current refugee response in Uganda seems unsustainable. I think it is clear that there is a need for an alternative response, that takes into consideration the protracted nature of the problem. Protracted in the sense that once refugees arrive in host countries like Uganda, they stay much longer and some never go back to their home countries at all. Meaning, long-term and durable refugee response approaches must be prioritised in countries like Uganda. 
-
-
 
 One of the more viable responses is one that centers on a refugee led response. This involves: recognising the work of refugee led initiatives such as Refugee Led Organisations (RLOs) that continues to be under recognised and funded in global humanitarian response. A report by the Overseas Development Initiatives (ODI) finds that RLOs are as diverse as the communities they represent. Embedded in, and directly accountable to, their communities, RLOs are best placed to design sustainable refugee responses that leave no one behind. Displaced communities, including marginalised and undocumented groups, are also [more likely to trust RLOs](https://www.migrationpolicy.org/article/migrants-needs-trust-humanitarian-organizations) who [treat them with more dignity, respect and fairness](https://refugeeledresearch.org/wp-content/uploads/2022/09/Refugee-Led-Organisations-in-East-Africa-Regional-Full-Report.pdf) based on shared kinship. The report by ODI finds, however, that just $26.4 million of humanitarian and development funding reached RLOs in 2022. Average grant sizes to RLOs are only $26,657 – 10 times smaller than the flows reported to local/national non-governmental organisations (NGOs). Outdated assumptions about RLOs persist - including that refugees are passive recipients of aid and that RLOs are a homogeneous group of small, informal organisations, the report mentions. International actors should recognise RLOs as strategic actors – not just in their communities, but, as the report recommends,also in the wider ecosystem of refugee protection and assistance.
 
-
-
 ![](https://images2.imgbox.com/5a/98/eXvHqMVS_o.jpg)
-
-
 
 I joined Cohere NGO in 2021 in Uganda and I would say that over the three years I have spent working with refugees, I have been on a learning journey. And this is mostly because, from the onset, there has been a consistent deliberate reflection on our role to change perceptions and in championing our RLO partners..  Through ongoing reflections, listening to our RLO partners and internal learning journeys, we have developed a clear understanding of the opportunities and challenges faced by the current refugee response in Uganda. We see that they must transfer power and resources to refugees, so that they can flexibly determine what is best for their communities. This is the only way forward when we look at the mass displacement worldwide. Refugees know which solutions are best suited to solve the problems that their communities face. Our role is to be equitable partners and allies, and to play an intermediary role to support them  achieve their vision for their communities. This then poses the question:“How?”. How do we ensure that we facilitate this transfer of power and resources to refugees and how do we continue to step back, to support our donors in this transition and allow refugees to take charge. Cohere is answering these questions through several ways:
 
-
-
 **Inclusion and equitable partnerships with refugees:** This has been in the shape of implementing the values of trust building, diversity, representation, equity and inclusion; Here, Cohere itself has embarked on implementing practices that promote diversity and meaningful participation  by having for instance people with a displacement background join its staff and governance boards such as the Refugee Advisory Panel (RAP), in a bid to make decisions and programming inclusive and reflective of the voices of refugees. 
-
-
 
 **Advocacy:** Cohere’s advocacy work is meant to influence sector-wide shifts towards refugee-centred humanitarian response. This is by recognising, funding, promoting and trusting the important work that RLOs are doing in refugee communities in Uganda and other refugee hosting countries. This also involves “removing the colonial glasses’’ that international actors often use to look at refugees as perceived recipients of humanitarian aid, and embracing a transformative view of these local actors as experts and designers of their community’s future. 
 
-
-
 **Mapping of RLO work:** Working with its RLO partners, Cohere has developed a platform, Reframe, that profiles RLO work. Over 420 RLOs have opened profiles on this platform. This platform seeks to recognise the work of RLOs through showcasing their work, enhancing their coordination and optimising collective fundraising efforts for RLO work. 
-
-
 
 **Ensuring leadership in project implementation:** Cohere is supporting its RLOs partners to decide and set visions for the change they would like to see in their communities. We do this for instance by providing or linking our RLO partners to flexible funding opportunities for their community projects and strengthening their capacity in areas which the RLOs themselves identify as needing.
 
-
-
 ![](https://images2.imgbox.com/9b/1b/nhxlrwwC_o.jpg)
-
-
 
 There are many challenges that we face on this journey including convincing other actors such as donors and INGO partners to embrace this shift. Sometimes, this has meant rejecting funding opportunities that do not give scope to align with this mission, at a time when funding is already limited. At other times, questioning our own staff composition and role in this journey. But we continue to listen, learn and adapt. 
 
 We do not believe that the current nature of the refugee response is valuing  us all as global citizens, not least because refugees are denied the opportunity of contributing in the way that they would like to contribute to global peace and prosperity. We are willing to take the risks. We don’t always get it right but we are committed to finding out how we can do better. Personally, this  keeps me motivated in my work in Uganda, to know that we are in pursuit of a better way to serve refugees.
-
-
 
 *Micheal Gumisiriza (Programme Lead, Cohere).*
