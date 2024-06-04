@@ -1,0 +1,52 @@
+---
+title: Climate change and displacement- a double tragedy!
+date: 2024-06-04T13:16:09.615Z
+description: "As the world celebrates Environmental Day today, I wish to share a
+  few thoughts around climate change and its effects on displacement. It was
+  just recently that Kenya, where I live, suffered extreme rainfalls that
+  resulted in devastating floods across the country. "
+categories: news
+image: https://images2.imgbox.com/63/11/l50AoNBN_o.jpg
+---
+The number of people forcibly displaced from their homes has steadily grown over the past decade, climate change is increasingly shaping how, why, and where people move. The links between climate change and mobility are neither straightforward nor easy to predict, but it is clear  that climate change amplifies conflict, loss of livelihoods, and other factors that drive displacement, triggering short and long-term movements both within and across national borders while also trapping some people in place.
+
+
+
+The climate crisis and human displacement are increasingly interconnected. Not only did climate-related disasters trigger more than half of new reported displacements in 2022, but nearly 60 percent of refugees and internally displaced people now live in countries that are among the most vulnerable to climate change. In fact, According to the [UNHCR](https://www.un.org/en/academic-impact/migration-dynamics-refugees-and-internally-displaced-persons-africa#:~:text=According%20to%20the%20United%20Nations,Nigeria%2C%20South%20Sudan%20and%20Burundi.) sub-Saharan Africa hosts more than 26 percent (over 18 million) of the world's refugees, while Africa is only responsible for a fraction of global greenhouse gas emissions but is suffering disproportionately from climate change. This is harming food security, ecosystems and economies, fueling displacement and migration, and worsening the threat of conflict over dwindling resources, according to a new report from the [World Meteorological Organization](<https://wmo.int/media/news/africa-suffers-disproportionately-from-climate-change#:~:text=Nairobi%204%20September%202023%20(WMO,suffering%20disproportionately%20from%20climate%20change.>).
+Climate change impacts everyone, especially people who are already forcibly displaced. Refugee hosting countries are of particular concern in Africa given their heightened vulnerability to climate change, and the large numbers of forcibly displaced and stateless people residing within them.  
+
+
+
+Refugees are people who are forcibly displaced due to various reasons such as persecution, conflict and violence, unfortunately, as they land into their hosting countries that are highly vulnerable and ill-prepared to adapt to climate change. The climate crisis is amplifying their challenges and making life harder for those already forced to flee. 
+
+
+
+We, therefore, collectively, have a duty to address the humanitarian impacts of climate-related displacement. Climate-related interventions begin from aspects of preparedness (adaptation), mitigation, and resilience, among other various interventions. Refugee leaders have taken the front line  in trying to address and lead their communities to respond appropriately to the impacts of climate Change. More than [637,000](https://www.unhcr.org/news/stories/five-things-know-about-catastrophic-flooding-east-and-horn-africa) refugees were affected by the most recent flooding in Africa.
+
+
+
+Over the last 6 years, I have worked closely with Refugee and host led organisations in [Kakuma Refugee Camp](https://www.unhcr.org/ke/kakuma-refugee-camp), mentoring them to establish sustainable partnerships and durable solutions to various challenges affecting their communities. The climate in Kakuma is characterised by arid conditions, with limited rainfall and high temperatures posing significant challenges to agriculture and livelihoods. Water scarcity is a constant concern, exacerbating food insecurity and health risks for the camp's inhabitants. In such an unforgiving environment, resilience becomes not just a virtue but a necessity for survival. Quite a number of refugee leaders have made great efforts in tackling climate change issues within their hosting areas. 
+
+
+
+One such group is Farming Health Education (FHE), who amidst these challenges emerges as a beacon of hope in the challenging context of the camp. Led by dedicated youth refugees, FHE is more than just a Community-Based Organisation; it's a lifeline for those navigating the complexities of displacement and environmental adversity. At the core of FHE's mission lies sustainable regenerative farming. Recognising the importance of eco-friendly agricultural practices, FHE equips refugees with the skills and knowledge needed to cultivate the land effectively despite the harsh climate. Through initiatives like permaculture trainings, kitchen gardening, and tree nurseries, FHE empowers individuals to harness the land's potential while mitigating environmental degradation. FHE also places a strong emphasis on environmental education and awareness by educating refugees about climate change, water conservation, and ecosystem preservation. Through workshops, awareness campaigns, and hands-on activities, refugees learn not only to adapt to their surroundings but also to protect and preserve them for future generations.
+
+
+
+![](https://images2.imgbox.com/6e/f0/fEc90tIK_o.jpg)
+
+
+
+Refugee-led organisations such as [Live in Green](https://www.liveingreen.org/) in Uganda, [Refugee Coalition for Climate Action](https://reframe.network/rlo/Refugee%20Coalition%20for%20Climate%20Action) in Zimbabwe, and many other Refugee Led Organisations, like Farming Health Education, continue to play a vital role in addressing issues around climate change affecting refugee hosting communities. These groups continue to demonstrate the ability to effectively respond to issues around climate resilience in their communities. With an ability to respond to these challenges rapidly and with innovative  interventions gives me hope and is why I believe when funded and supported these communities will remain resilient to issues around climate displacement.  
+
+
+
+It is therefore imperative to make a deliberate effort to support the locally led interventions to effectively tackle and manage climate disasters as refugee hosting areas continue to be the hotspots, we have no other choice. 
+
+
+
+You can support these organisations by donating to them through Reframe. 100% of your donation reaches the organisations and enables them to continue to tackle these challenges head on. 
+
+
+
+![](https://images2.imgbox.com/0c/94/7fLeydCU_o.jpg)
