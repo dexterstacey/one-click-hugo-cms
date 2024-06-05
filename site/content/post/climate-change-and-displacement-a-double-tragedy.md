@@ -1,6 +1,6 @@
 ---
 title: Climate change and displacement- a double tragedy!
-date: 2024-06-04T13:16:09.615Z
+date: 2024-06-05T07:43:05.445Z
 description: "As the world celebrates Environmental Day today, I wish to share a
   few thoughts around climate change and its effects on displacement. It was
   just recently that Kenya, where I live, suffered extreme rainfalls that
