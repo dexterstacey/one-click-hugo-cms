@@ -1,6 +1,6 @@
 ---
-title: Part One - Neocolonialism Through Due Diligence. The Price of Depending
-  on Imperialist Institutions for Brokering Trust
+title: Neocolonialism Through Due Diligence. The Price of Depending on
+  Imperialist Institutions for Brokering Trust
 date: 2024-08-01T10:47:32.552Z
 description: Global crises fuelling the displacement and protracted emergencies
   for increasingly vast populations around the world is the result, for a large
@@ -20,11 +20,7 @@ It does not mean that the motives of donors and those giving are praiseworthy ju
 
 This is laid bare through the way that donors approach these transactions and the way that the idea of “trust” or lack thereof, shows up in the way these transactions are carried out. Through the channels and instruments that donors use in moving funds for humanitarian aid, the message being relayed loud and clear is *“we are giving, but we don’t know you and we don’t trust you”*. The “trust building” instruments not only achieve the opposite result, but also, as a manifestation of neocolonialism and even racism, are creating more corrosive and long lasting divisions between those who have and those who do not, even within the communities the funds are supposed to be benefitting - we will come to this. 
 
-
-
 In this blog series I want to look at two of the ways that donors perpetuate the power dynamics of colonialism under the thin guise of building trust - 1 ) the increasingly autocratic due diligence and reporting processes, and 2) the outsourcing of trust building to “well-trusted” brands such as iNGOs - and in later blogs I will try to offer a few ideas on how why this is the case and how this could all be done differently based on genuine shared goals and equitable human relationships.
-
-
 
 **Due Diligence and the Trust in Institutions that it Depends on**
 
@@ -38,62 +34,32 @@ In other parts of the world this simply isn’t the case because of very differe
 
 Receipts and contracts, for similarly reasons, might only tell one side of a story in a way that would confuse someone used to doing business in the global north. Donor funding often stipulates that contracting for tenders must be done following certain standards, such as that only registered companies are able to qualify for the provision of materials. For a local organisation we partnered with, this meant they were supposed to procure sand for construction from a town two hours drive away as this was the nearest place where they could find a registered company that delivered sand. In their local community, however, there were many unregistered dealers of sand who dug sand from a local river bed and could sell it to them for 30% of the price - but there was no contract and no receipts (they went for the local sand, as you can imagine).
 
-
-
 In the parts of Africa where Cohere works systems and economies exist outside of the reach of bank branches, administrative offices and title deeds and some parts are even outside of the coverage of government control. Institutions such as the police and the judiciary and even national hospitals and universities have not been able to implant deep enough roots to develop enduring reputations for trustworthiness.  To assume that this evolution of building trust in institutions has occurred in parallel in colonised parts of the world is not only wrong but demonstrates an ignorance of the role of these institutions in the history of imperialism. Colonisers during the age of Empire did their best to impose the same institutionalisation on the colonised - by then it was the only system they knew. But the institutions were not used primarily to build trust and economic cooperation, as they may have been in the global north, but to suppress, exert power and to extract wealth. It is of no surprise therefore that only a few generations later, societies of the post-colonised world have a very different relationship with the successors of these institutions, be they systems built on the colonial legacy at the national level (law enforcement, revenue collection, banking systems, parastatals) or successors that have expanded to the global level such as the UN and the World Bank.
-
-
 
 Communities facing crisis in parts of the world like Africa haunted by the legacy of this imperialism do not therefore automatically turn to these imperial legacy institutions when trust has been broken. Organisations such as refugee-led organisations will depend equally heavily on meaningful human relationships to sustain the social contract that exists between them and the communities they serve. This is how one of our partners in Rwamwanja were able to recruit hundreds of community members to help make bricks out of mud and manually construct a three-classroom learning centre with only two construction professionals. The $10,000 used for the construction of the entire building, which is still standing eight years later, went predominantly towards the timber and iron sheets used for the roof and ceiling. Some of it was also used to buy refreshments for the community who volunteered their time for construction and for an opening ceremony when it was completed - the kind of expenses donors often frown upon.
 
-
-
 Someone who is used to doing business in the global north may assume that bank statements give an accurate picture of an organisation’s financial health and that receipts and contracts can capture every transaction - it is hard for them to imagine the concept of transactionality without an accompanying monetary exchange that can be followed by a papertrail. They will assess the requested paperwork but without understanding the very different relationship local organisations have with institutions they are not understanding a lot of things about how that organisation carries out business. When this paperwork appears to have gaps, this will be assumed to denote untrustworthiness and a lack of “capacity” as opposed to being a sign that the organisation is more focused on sustaining real relationships and social contracts that cannot be codified through bureaucracy.
-
-
 
 The implication of this in the immediate term is that due diligence via documentation simply doesn’t work in giving donors a picture of what is happening with their funds. On the one hand there are vital insights into that organisation being missed, such as more diverse ways of managing money, and engaging in local economies. What is more, by going in with a clear message that donors are not likely or willing to trust their grantees, and that they will use a top-down style verification of every decision they make,  they are enhancing the transactional nature of aid and creating a perverse incentive for grantees to push back against a system that is designed to oppress them. 
 
-
-
 Over the last 20 years, the tendency of donors to distrust their grantees seems to have continued to grow, and as a result they have layered on deeper and deeper levels of due diligence and verification. This can be to the extent of bizarre conditions and practices such as requiring monthly financial reports with complete sets of receipts and  three day visits from auditors scrutinising time-sheets (the record we are supposed to keep showing exactly how many hours each colleague has spent on a project). At Cohere, we have had to endure quarterly or even monthly scrutiny from donors, as well as due diligence processes that have taken up over 100 hours of staff time. On one occasion we had $16,000 retrospectively cut from a grant payment because we could not demonstrate through our documentation that two staff members had spent significant time delivering the activities in our contract (yet they had). In the end it will be impossible for every time-sheet to be 100% accurate. It stands to reason that by requiring all downstream partners to fill them in, donors are effectively making transgressions of accountability inevitable and forcing grantees to start doubting their own levels of integrity. 
-
-
 
 Over the years we have had to create survival tactics to help us get through this level of inspection and surveillance. Some of the 100 hour due diligence processes resulted in us being rejected from funding, and yet we were never compensated for all those hours and we have no obvious revenue stream for covering it. We cannot even claim it back from the donors who do agree to fund us. Navigating this environment can mean you have to be creative or really push donors to give at least some flexible funding (7% is a benchmark that only some donors agree to and usually only to larger organisations). We also share and discuss ways with smaller organisations as to how to hold their position and not be dragged down by the coercive powerplay of their donors. This can entail strategies and negotiations in dealings with donors that begin to resemble dealings with an aggressor more than an equitable partner or a friend - and the more you feel oppressed the more likely you are to put up barriers and keep your cards close to your chest. Tip for donors - the more penetrative and inquisitorial the due diligence, the less likely it will be to reveal reality.
 
-
-
 Alongside the perhaps justifiable bending of truths to meet the extreme demands of donors, I have witnessed more  egregious and devious strategies employed by leaders of organisations interested in enriching themselves at the expense of communities.   In one example I observed a briefcase organisation creating wonderfully crafted audited accounts dating back five years paired with a whole suite of dynamic fraud and safeguarding policies. Chat.GPT and a fixer on Nasser Road in Kampala can get you all this, shiny and stamped by the end of the working day. They were awarded funding. I have seen publicly shared reports from larger NGOs with details of reach and outcomes that I knew to not only be false but made up from beginning to end. I have seen these stories play out all too often. The suggestion here, therefore, is clearly not that donors should blindly trust their grant recipients, it’s that due diligence processes are not the way to build trust or to discover truths about what is really happening in a community, whether honest or not. 
-
-
 
 **How Due Diligence Divides Communities**
 
-
-
 Digging deeper into the dynamic between donor and recipient and the role of due diligence can show us that due diligence is not only ineffective in achieving its stated goal - it can in fact be a tool for harm. 
-
-
 
 The use of documentation and institutions in building trust elevates power for those more ready to adapt to neocolonialist trust systems, such as a level of literacy in audits and evaluative reports, or even just a command of English. These may or may not be the most inclusive leaders in a community and they are overwhelmingly likely to be men. Women leaders may not have a shelf load of policies and audit reports to share with prospective donors but may well have deeper and more genuine relationships with the community they are tirelessly working for. Donors are therefore building trust in local leaders who more closely match their mould as opposed to the leaders most likely to bring about holistic positive changes to a community. This in turn creates mistrust in those communities because they begin to see the leaders with resources as those who are better at playing the donors at their game as opposed to being most committed to their community needs. When those with a real commitment to building strong bonds and inclusive change are left by the wayside they are disincentivised to persevere with their most crucial services. Many of them do continue persevering, but unresourced, and isolated from the mainstream humanitarian response.
 
-
-
 Further, by looking at the not so distant history of colonialism we can unpick the legacy of imperialist institutions and identify the potential stresses and divisions associated with them today.  When the colonisers arrived with their institutions in the 19th and 20th centuries - the use of western courts, financial systems, land tenure and religious institutions - they were used with the explicit goal of divide and rule. Those who accepted and embraced colonial institutions were rewarded, and given positions of authority. The village elders and chiefs who had earnt their power and community trust through a lifetime of integrity were systematically outcast. If the colonisers had had it their way they would have continued with this societal overhaul until the pre-colonial mindsets and practices had been entirely eradicated. But it wasn’t to be; their disruption was not completed before they had to scale back and pull out, leaving newly drawn borders, confused cultural identities and a blueprint for centralised top-down power. Pre-colonial cultures, including cultures that foster alternative models for building trust were still and are still strongly intact- models such as trust based on oral agreements, trust based in human connection. 
-
-
 
 Until today, the post-colonised parts of the world continue to coalesce around models for building trust and forging meaningful relationships in ways that can’t be accurately portrayed on paper, such as the values of Ubuntu in Sub-Saharan Africa, Gotong-Royong in Indonesia and Ayllu in the Andes in South America. Yet in crisis contexts it is clear that for one reason or another, trust has broken down. Communities are fragile and vulnerable and it serves to reason that trust needs to be rebuilt in the way that is most culturally appropriate on the back of systems with strong foundations, such as the systems that have been used by those communities for centuries. Trust will certainly not be built on the back of systems that within living memory have been used to traumatically divide the same communities. 
 
-
-
 With all this said, it surprises me that donors choose to publicly celebrate their increasingly intrusive due diligence practices as opposed to seeing the real and potential harm in these practices. Excessive due diligence measures not only fail to capture the reality on the ground but also reinforce a transactional and extractive approach to aid, fueling a cycle of distrust and oppression. The dependence on imperialist institutions for trust-building reinforces colonial power dynamics, undermines genuine efforts for equitable humanitarian aid, serving to deepen divisions and erode community cohesion.
-
-
 
 To be a true ally of change it is imperative for the sector to rethink trust-building mechanisms and prioritise culturally appropriate approaches rooted in meaningful relationships and inclusivity. This though, will not come easily to most mainstream humanitarian actors whose interests will not be served by an upset to the status quo. What we all need to more fully understand is that for many of the actors at the centre of power within the humanitarian sector it is in fact this self-interest, or at best a conflicting mix of interests that drive decision making. In up-coming blogs I will look at how public donors, large international NGOs and private philanthropists, in different ways, leverage humanitarian aid precisely to wield or hold-on to power. It is only by dissecting this and understanding what is going on in the flow of so-called “aid” that we will be able to discern a realistic starting point for a return towards a sector that could be based on meaningful and trusting human relationships. 
 
-
-
-**Edmund Page, CEO & Founder, Cohere**
+***This blog is Part One in a five part series written by Cohere's CEO & Founder, Edmund Page.***
