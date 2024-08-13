@@ -8,7 +8,7 @@ description: Of the $46 billion given in humanitarian aid, only 1.2% is put in
   individual donors, they are largely giving to institutions from the global
   north that they know. Within this statement we should read that they are
   giving to organisations that they “trust”.
-categories: jobs
+categories: draft
 image: https://images2.imgbox.com/b0/20/ZWTg2HKr_o.jpg
 ---
 In this blog series, I am looking at the significance of trust and human relationships in humanitarian giving. Moreover, by picking apart instruments and approaches used for trust building in the process of giving, I am exploring what a lack of trust in people affected by forced displacement reveals about prevailing prejudices and a reluctance to relinquish power by those who have it. In the first blog I looked at how increasingly authoritarian due diligence processes not only demonstrate a total lack of trust but also serve to further sever genuine trust relationships between givers and receivers as well as within communities receiving aid.  In this blog I will look at how misplaced trust in global brands by donors reveals the same prejudices and leads to the same divisive results. I will look at the relationship between brand positioning and the corporatisation of the humanitarian sector and how this further fuels inequalities and wastage. 
