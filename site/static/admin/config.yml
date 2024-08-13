@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["jobs", "news"],
+          options: ["jobs", "news", "draft"],
         }
       - { label: "Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
