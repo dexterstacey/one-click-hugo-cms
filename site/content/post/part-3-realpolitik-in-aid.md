@@ -1,0 +1,60 @@
+---
+title: PART 3 - REALPOLITIK IN AID
+date: 2024-09-17T13:15:20.906Z
+description: For over 20 years an organisation called InterAid was the main
+  implementation partner for the most significant refugee response contracts in
+  Kampala Uganda. All public funding allocated towards Education for refugees in
+  Kampala, for example, found its way to InterAid. They were responsible for
+  running education programmes in urban areas such as supporting schools with
+  funds and learning resources, identifying out-of-school children, especially
+  primary aged children, and training teachers. The problem was that InterAid
+  did barely anything. According to all the schools we visited the funds were
+  not being spent on anything related to refugee education or much else related
+  to refugees. Eventually, after well over 20 years this became a more public
+  fact and they had all their funding cut, and soon after the organisation
+  folded.
+categories: draft
+---
+I was first exposed to this scandal around ten years before InterAid’s eventual demise. It was not difficult to identify the large-scale corruption. InterAid’s reports documented renovations and learning resource provisions to schools we worked with closely where headteachers denied InterAid had even visited the school let alone provided any funding. I used to raise this concern with the international agencies that were funding InterAid and I was met with shoulder shrugging and weak attempts to claim that I might be mistaken. At a certain point I began to suspect that the international agencies knew exactly what was going on but felt that their hands were tied, as if funding one or two briefcase NGOs was a quid pro quo for an otherwise conducive working environment. There was a revolving door between InterAid and government parastatals and it was assumed to also be a revolving piggy-bank. I approached an investigative journalist with the suggestion that this could be looked into further. That never got off the ground but I was fascinated to know how far up awareness of InterAid’s corruption went within the humanitarian aid structures. Maybe even the global north donor agencies were aware. One thing I was sure of though was that the taxpayers in the global north funding this situation were not aware. 
+
+I have come across similar situations in other parts of East Africa. A suspicion of mine has been growing that public donors turn a blind eye to state sponsored corruption on a certain scale if it means that they can deliver their portfolio as a whole. If this is true, how openly is it discussed in public donor offices? Possibly worse are the examples of public donors enabling or perpetuating harmful policies and approaches under the guise of an aid programme that might actually have little to do with marginalised or vulnerable communities. In the case of Britain my suspicions that this was happening were fuelled when Boris Johnson stood at the dispatch box saying that [British Aid needed to be more closely aligned with British interests](https://www.youtube.com/watch?v=3gOaMKzmHx0). Unlike other politicians and diplomats before and after him he was at least being honest about what aid is all about for western governments - aid should not be a “great cash point in the sky” it should be there to promote the interests of the donor government. 
+
+
+
+For Britain this trend seems to have been increasing over the last decade. Where British aid may once have played a vital role in shaping the policies of African governments, the power of “Global Britain” has been decreasing. FCDO budget squeezes, cheap cash from China as well as growing African economies has meant that British Aid pounds carry less clout than in the past. Britain has increasingly used aid as a way of sustaining a competitive edge and keeping up relations in a world in which its power is waning. Boris Johnson himself referred to this in his speech in parliament when he said that Britain must strengthen its position in “an intensely competitive world”. 
+
+
+
+Looking at Britain’s aid relationship with Kenya over the last ten years can help give an interesting snapshot into the broad mix of motives that underlie aid strategies of a global north country. This relationship is clearly appraised in a report by the Royal United Services Institute. Britain’s aid relationship with Kenya demonstrates on the one hand a genuine commitment to development, such as via investments in Education. Quotes from the report frame the UK as Nairobi’s staple ‘partner for primary and early child education’. The UK has also invested heavily in healthcare infrastructure,the financial response to refugee crises, and other crises such as COVID seem to map the threats of the crisis as opposed to pure self-interest. 
+
+
+
+Nevertheless, on the other hand, the report also finds that there are instances where the UK's motives in providing bilateral aid to Kenya have fairly clear self-interest or mixed motives. The UK views Kenya as a vital commercial hub and has a significant number of 'aid-for-trade' programs in the country. This indicates that part of the aid provided may serve to enhance UK trade and economic interests in Kenya. This makes sense in a country with 25,000 British nationals living as permanent residents (and 200,000 visiting each year). 5% of all Kenyan exports go to the UK and a lot of this is fresh food. 14% of all foreign direct investment equity held in Kenya is British equity. The British economy depends on Kenya to a significant degree.
+
+
+
+Meanwhile the UK depends on its long-running cooperation with Kenya in military matters and has outlined the possibility of an 'enhanced presence' in the country. Kenya is strategically important to the UK for military access to Central Africa and plays a crucial role in counterterrorism, particularly against Al-Shabaab in Somalia. Since 1964 the British Army has had a permanent presence and large scale training facility base, which though supposed to have mutual benefit to both the UK and Kenya, has nonetheless been a constant source of trauma for Kenyan citizens. Countless examples of atrocious behaviour, from vandalism to rape and murder by British soldiers have been met with minimal redress or sympathy from the British government, alongside allegations of complicity and cover up. 
+
+
+
+The RUSI report also shows that the UK has been criticised for prioritising relations with the Kenyan government over accountability and reform. One respondent mentioned that initiatives instigated by the British High Commission to promote a more open society would not be met by support from London’s central control in Whitehall (p42). Whether this was due to sustaining a fragile relationship with the Kenyan government in relation to military strategy or trade dependencies, or due to insecurity about competition from other aid actors such as the US or China, or all of the above, we can see that Boris Johnson’s directive is being followed. Is it therefore such a leap to imagine that Whitehall is also able to turn a blind eye to the state sponsored “cut taking” through briefcase NGOs such as InterAid? 
+
+
+
+The chunk of British aid in Kenya that I am more familiar with concerns British contributions to the refugee response in Kenya. Between 2018 and 2023 Britain contributed over £50 million towards the refugee response in Kenya but none of this funding trickled down to Cohere because with the public funding we were receiving we were responding to the urban population of refugees in Kenya, the 100,000 or so refugees living in Nairobi and other cities. At the time, British funds excluded urban programming and was all dedicated to supporting refugee camps, as well as providing assistance to the areas immediately local to the camps.  In Kenya I am sure that the encampment policy for refugees, which has survived for over 30 years, was stomached and supported by Western donors for so long because of aligned interests in containing the threat, real or perceived, from Somalia - Kenya could treat Somalis however they liked with funding from the West as long as Kenya remained an appropriate ally in the fight against terrorism. Although many other donors did fund the urban refugee programme in Kenya, the Kenyan government sporadically cracked down on refugees living in Nairobi and tried to send them to the camps. It seems the British were not willing to risk misalignment with the Kenyan government on the issue and instead implicitly condoned the conditions experienced by refugees in the camps, by only funding the camps. Both Kakuma and Dadaab are located in places not fit for humans to live for long periods, especially in numbers the size of a large city. As a consequence of policies they have had no hand in crafting, the thousands of people who have never left Dadaab have never seen a hill or a river or a lake or a forest, a city or the ocean or many of the other things the rest of us take for granted as features of our lives.
+
+
+
+The quote mentioned above from the respondent about the British High Commission in Kenya being misaligned with Whitehall sheds an interesting light on the predicament faced by development professionals. They may join their national aid agencies with genuine motives to promote global development and meet the humanitarian needs of the most vulnerable only to be stymied by the realpolitik strategies their governments are pursuing behind the increasingly thin veil of “aid”. It is not necessarily the case that we cannot trust the colleagues recruited to front British aid, they may be connected to parts that are genuine or parts that are farcical and we have to give them the benefit of the doubt. However, we simply can’t trust that politicians elected to put British interests above all else to do anything other than precisely that, even if it is at the expense of the most vulnerable. 
+
+
+
+Unfortunately cynical and self-serving motives behind humanitarian aid are not unique to the UK. In a funding proposal for US government funding we were required to answer ten questions and two of them exclusively concerned how we would invest in visibility and branding for the donor, such as through signs of how the funds were “given by the American people”. The Canadian government released a call for proposals for refugee leadership in Africa but recipient organisations were required to be legally registered in Canada. NGOs receiving funding from the EU had to have a legal registration within the UK when we last enquired - just about the time when Cohere lost that status as a result of Brexit. 
+
+Public funders make up 81% of the $46 billion given in humanitarian aid and we have to assume that a significant proportion of this is driven by mixed motives - if all those countries were as open as Boris Johnson they would admit that their aid budgets should reflect the interests of the country. 
+
+There are some countries, notably the Netherlands, Canada and Switzerland who are exploring different ways of working that could have beneficial long term dividends for everyone in the world, including their citizens. There are signs that they see their aid programmes as a way to reduce global wealth inequalities and power imbalances which would surely mean that our descendants in generations time will live in a happier and safer world. Jan Egeland, the leader of the Norwegian Refugee Council, in his introduction to the 2023 Global Humanitarian Assistance Report, writes “Humanitarian assistance is not solely philanthropically motivated – we should change our narrative and discuss the benefits of humanitarian assistance as an investment in resilience and stability for a global common good.”
+
+
+
+Unfortunately the approach of these few states is not the norm. Instead, countries from the global north, increasingly feeling their international clout waning in the way the British are experiencing, are increasingly using aid as a way of desperately clinging on to the power they enjoyed generations ago, as well as the inequalities those generations created.
