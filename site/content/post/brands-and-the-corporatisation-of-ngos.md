@@ -1,5 +1,5 @@
 ---
-title: BRANDS AND THE CORPORATISATION OF NGOS
+title: Brands And The Corporatisation of NGOs
 date: 2024-08-12T12:45:52.667Z
 description: Of the $46 billion given in humanitarian aid, only 1.2% is put in
   the hands of local actors and far less is put in the hands of leaders from
