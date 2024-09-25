@@ -1,5 +1,5 @@
 ---
-title: PART 3 - Realpolitik In Aid
+title: Realpolitik In Aid
 date: 2024-09-19T11:08:45.377Z
 description: For over 20 years an organisation called InterAid was the main
   implementation partner for the most significant refugee response contracts in
