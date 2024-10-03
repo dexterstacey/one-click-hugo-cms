@@ -14,7 +14,7 @@ description: For over 20 years an organisation called InterAid was the main
   fact and they had all their funding cut, and soon after the organisation
   folded.
 categories: news
-image: https://images2.imgbox.com/bd/88/2mRplega_o.jpg
+image: https://images2.imgbox.com/66/67/fwijHvKx_o.jpg
 ---
 I was first exposed to this scandal around ten years before InterAid’s eventual demise. It was not difficult to identify the large-scale corruption. InterAid’s reports documented renovations and learning resource provisions to schools we worked with closely where headteachers denied InterAid had even visited the school let alone provided any funding. I used to raise this concern with the international agencies that were funding InterAid and I was met with shoulder shrugging and weak attempts to claim that I might be mistaken. At a certain point I began to suspect that the international agencies knew exactly what was going on but felt that their hands were tied, as if funding one or two briefcase NGOs was a quid pro quo for an otherwise conducive working environment. There was a revolving door between InterAid and government parastatals and it was assumed to also be a revolving piggy-bank. I approached an investigative journalist with the suggestion that this could be looked into further. That never got off the ground but I was fascinated to know how far up awareness of InterAid’s corruption went within the humanitarian aid structures. Maybe even the global north donor agencies were aware. One thing I was sure of though was that the taxpayers in the global north funding this situation were not aware. 
 
