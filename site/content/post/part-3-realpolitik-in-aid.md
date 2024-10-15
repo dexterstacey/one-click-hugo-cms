@@ -76,6 +76,3 @@ References:
 4. CNN. *British Army Abandoned Children in Kenya*. 2024. Available at: <https://edition.cnn.com/2024/06/17/africa/british-army-abandoned-children-kenya-intl/index.html>
 5. Brannkamp, H., & Gluck, S. (2022). *Camps and Counterterrorism: Security and the Remaking of Refuge in Kenya*. In their report, they conclude: “The rise of counterterrorism as a hegemonic securitizing logic and network of material infrastructure has introduced overlapping donor pressures to secure East Africa’s ‘frontline’ in the global War on Terror and thereby, once again, enabled Kenya’s institutional proclivity for dispensing state violence and counterinsurgency against ethno-racialized minorities.”
 6. Development Initiatives. Global Humanitarian Assistance Report 2023. Available at: [https://www.devinit.org](https://www.devinit.org/)
-
-   * Page 28
-   * Page 69
